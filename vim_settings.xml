@@ -197,6 +197,9 @@
         <mark key="^" line="18" column="30" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="/" timestamp="1588785979201">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/anaconda3/envs/eoasweb/lib/python3.7/site-packages/dash/dash.py" timestamp="1584644093472">
         <mark key="'" line="1338" column="0" />
       </file>
