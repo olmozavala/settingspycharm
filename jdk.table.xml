@@ -1,0 +1,277 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6 (AI)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.9" />
+      <homePath value="$USER_HOME$/anaconda3/envs/AI/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/AI/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/AI/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/AI/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-1457244687" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$USER_HOME$/Dropbox/MyProjects/OZ_LIB/AI_Common" type="simple" />
+            <root url="file://$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_preprocessing" type="simple" />
+            <root url="file://$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_visualization" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/Dropbox/MyProjects/OZ_LIB/AI_Common" />
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_preprocessing" />
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_visualization" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (medical_imaging)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="$USER_HOME$/anaconda3/envs/medical_imaging/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/medical_imaging/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/medical_imaging/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/medical_imaging/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/328450403" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_visualization" type="simple" />
+            <root url="file://$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_preprocessing" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_preprocessing" />
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_visualization" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (eoas)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="$USER_HOME$/anaconda3/envs/eoas/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/eoas/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/eoas/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/eoas/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_visualization" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/2066146749" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_visualization" />
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/Dropbox/TutorialsByMe/Veros/veros" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="/usr/bin/python3.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///usr/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/local/lib/python3.7/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python3/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-1247971762" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (AIEOAS)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="$USER_HOME$/anaconda3/envs/AIEOAS/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/AIEOAS/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/AIEOAS/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/AIEOAS/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_visualization" type="simple" />
+            <root url="file://$USER_HOME$/Dropbox/MyProjects/OZ_LIB/eoas_preprocessing" type="simple" />
+            <root url="file://$USER_HOME$/Dropbox/MyProjects/OZ_LIB/AI_Common" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/2082887445" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/Dropbox/MyProjects/OZ_LIB/AI_Common" />
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/Dropbox/MyProjects/OZ_LIB/eoas_preprocessing" />
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_visualization" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.9 (sftp://olmozavala@132.248.8.98:21622/home/olmozavala/anaconda3/envs/AIEOAS/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.9" />
+      <homePath value="sftp://olmozavala@132.248.8.98:21622/home/olmozavala/anaconda3/envs/AIEOAS/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional INTERPRETER_PATH="$USER_HOME$/anaconda3/envs/AIEOAS/bin/python" HELPERS_PATH="$USER_HOME$/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="" WEB_SERVER_CONFIG_ID="d2c83fcc-ed60-4d65-a9e7-d71bbc43b0ff" WEB_SERVER_CONFIG_NAME="OBI_Interpreter" WEB_SERVER_CREDENTIALS_ID="sftp://olmozavala@132.248.8.98:21622">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/1231117182/-938051068" remote-root="/home/olmozavala/anaconda3/envs/AIEOAS/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/1231117182/-1149575192" remote-root="/home/olmozavala/anaconda3/envs/AIEOAS/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (veros)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/anaconda3/envs/veros/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/veros/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/veros/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/veros/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-2001801050" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Dropbox/TutorialsByMe/Veros" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (eoasweb)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/anaconda3/envs/eoasweb/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/eoasweb/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/eoasweb/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/eoasweb/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-1114717483" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (ai_medicalimaging)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="$USER_HOME$/anaconda3/envs/ai_medicalimaging/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/ai_medicalimaging/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/ai_medicalimaging/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/ai_medicalimaging/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-154071697" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Dropbox/UMIAMI/WorkUM/Paper_ProstateAndPZ_testcode" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (AITF2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="$USER_HOME$/anaconda3/envs/AITF2/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/AITF2/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/AITF2/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/AITF2/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/1650964981" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Dropbox/TutorialsByMe/TensorFlow/TensorBoard" />
+    </jdk>
+  </component>
+</application>
