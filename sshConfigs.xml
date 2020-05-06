@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="132.248.8.98" id="d2364f66-8a9c-49ab-b14b-12c9c441afa0" port="21622" customName="OBI" nameFormat="CUSTOM" username="olmozavala" />
-      <sshConfig authType="PASSWORD" host="132.248.8.98" id="c2d1d0fb-d452-4efb-af39-6f2b3b400335" port="21622" customName="OBI" nameFormat="CUSTOM" username="olmozavala" />
+      <sshConfig authType="PASSWORD" host="132.248.8.98" id="c32a99c4-a201-4989-b1b6-4b16a15c275c" port="21622" customName="OBI" nameFormat="CUSTOM" username="olmozavala" />
     </configs>
   </component>
 </application>
