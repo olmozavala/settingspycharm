@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="62c93dbe-8da8-4e7e-9d4a-1bd978d40973" name="OBI" url="http://132.248.8.98">
+        <fileTransfer host="132.248.8.98" port="21622" rootFolder="/home/olmozavala/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21622" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
