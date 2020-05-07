@@ -148,8 +148,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticleVizManager.js" timestamp="1588789500271">
-        <mark key="'" line="209" column="63" />
+      <file name="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticleVizManager.js" timestamp="1588790047204">
+        <mark key="'" line="186" column="0" />
         <mark key="[" line="85" column="12" />
         <mark key="]" line="85" column="13" />
         <mark key="." line="85" column="13" />
@@ -229,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="24" filename="$USER_HOME$/Dropbox/MyProjects/UNAM/PollutionMexicCity/PollutionForecastOZ/src/4_TrainingAllStations.py" />
       <jump line="133" column="4" filename="$USER_HOME$/Dropbox/MyProjects/UNAM/PollutionMexicCity/PollutionForecastOZ/src/4_TrainingAllStations.py" />
       <jump line="11" column="35" filename="$USER_HOME$/Dropbox/MyProjects/UNAM/PollutionMexicCity/PollutionForecastOZ/src/4_TrainingAllStations.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/MyProjects/UNAM/PollutionMexicCity/PollutionForecastOZ/src/4_TrainingAllStations.py" />
@@ -329,6 +328,7 @@
       <jump line="19" column="7" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/StatesLayer.js" />
       <jump line="2" column="9" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/MakeTable.js" />
       <jump line="4" column="8" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/MakeTable.js" />
+      <jump line="186" column="0" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticleVizManager.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
