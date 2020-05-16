@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>lats</entry>
-        <entry>'</entry>
         <entry>figsize</entry>
         <entry encoding="base64">XDxfZmlnc2l6ZVw+</entry>
         <entry>tig</entry>
@@ -25,6 +23,8 @@
         <entry>latitude</entry>
         <entry encoding="base64">XDxkYXRhX2ZvbGRlclw+</entry>
         <entry encoding="base64">XDx6ZXJvc1w+</entry>
+        <entry encoding="base64">XDxCcm93bmlhbk1vdGlvbjJEXD4=</entry>
+        <entry encoding="base64">XDxwbG90VHJhamVjdG9yaWVzRmlsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s//db/g</entry>
@@ -40,12 +40,12 @@
         <entry>sp</entry>
         <entry>wall</entry>
         <entry>s/,/, /g</entry>
-        <entry>q</entry>
         <entry>%s//run_file_name/g</entry>
         <entry>s/latitude/longitude/g</entry>
         <entry>ws</entry>
         <entry>:W</entry>
         <entry>%s//ones/g</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -119,14 +119,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/UMIAMI/WorkUM/DataVisualization/img_viz/viz3d.py" timestamp="1584644211297">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588880899233">
+      <file name="/Dummy.txt" timestamp="1589651404257">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/utils/io_hycom.py" timestamp="1589651523498">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="16" />
+        <mark key="^" line="12" column="39" />
+        <mark key="." line="30" column="16" />
       </file>
       <file name="/Python Console" timestamp="1588881877252">
         <mark key="[" line="0" column="0" />
@@ -140,6 +140,12 @@
       <file name="$USER_HOME$/anaconda3/envs/eoas/lib/python3.7/site-packages/matplotlib/pyplot.py" timestamp="1588871627712">
         <mark key="'" line="1481" column="49" />
       </file>
+      <file name="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/kernels/wl_kernels.py" timestamp="1589651325957">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="51" column="30" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/02_once_Countries_and_Oceans_from_locations.py" timestamp="1588869333628">
         <mark key="'" line="31" column="28" />
         <mark key="[" line="52" column="0" />
@@ -152,20 +158,6 @@
         <mark key="]" line="18" column="28" />
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="25" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_visualization/img_viz/viz3d.py" timestamp="1584646252061">
-        <mark key="'" line="98" column="39" />
-        <mark key="[" line="110" column="46" />
-        <mark key="]" line="110" column="47" />
-        <mark key="^" line="110" column="46" />
-        <mark key="." line="110" column="47" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Python/PythonExamples/Python/OceanParcels/WorldLitter/WorldLitter.py" timestamp="1584555062024">
-        <mark key="'" line="19" column="55" />
-        <mark key="[" line="22" column="52" />
-        <mark key="]" line="22" column="52" />
-        <mark key="^" line="22" column="75" />
-        <mark key="." line="22" column="52" />
       </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/5_Once_GeoTiff_FromHisto.py" timestamp="1588873343463">
         <mark key="'" line="23" column="40" />
@@ -188,6 +180,11 @@
         <mark key="." line="96" column="63" />
         <mark key="^" line="96" column="64" />
       </file>
+      <file name="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/config/MainConfig.py" timestamp="1589651329584">
+        <mark key="[" line="21" column="46" />
+        <mark key="]" line="21" column="47" />
+        <mark key="." line="21" column="47" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TutorialsByMe/Python/PythonExamples/Python/AwesomeGeoTagger/inout/reader.py" timestamp="1584651825945">
         <mark key="'" line="20" column="48" />
         <mark key="[" line="0" column="0" />
@@ -198,8 +195,12 @@
       <file name="/" timestamp="1588785979201">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/eoasweb/lib/python3.7/site-packages/dash/dash.py" timestamp="1584644093472">
-        <mark key="'" line="1338" column="0" />
+      <file name="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" timestamp="1589651260752">
+        <mark key="'" line="6" column="136" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="^" line="139" column="62" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_visualization/examples/Medical3D.py" timestamp="1584646759654">
         <mark key="'" line="35" column="12" />
@@ -209,11 +210,9 @@
         <mark key="^" line="29" column="82" />
       </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/1_Show_Output.py" timestamp="1588865418593">
-        <mark key="'" line="27" column="31" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="44" column="14" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="43" column="0" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_visualization/img_viz/eoa_viz.py" timestamp="1588870396839">
         <mark key="'" line="39" column="0" />
@@ -226,10 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="9" filename="$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_visualization/examples/Medical3D.py" />
-      <jump line="35" column="12" filename="$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_visualization/examples/Medical3D.py" />
-      <jump line="79" column="4" filename="$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_visualization/img_viz/viz3d.py" />
-      <jump line="123" column="20" filename="$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_visualization/img_viz/viz3d.py" />
       <jump line="98" column="39" filename="$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_visualization/img_viz/viz3d.py" />
       <jump line="41" column="23" filename="$USER_HOME$/Dropbox/TutorialsByMe/Python/PythonExamples/Python/AwesomeGeoTagger/ANUMOGET.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Dropbox/TutorialsByMe/Python/PythonExamples/Python/AwesomeGeoTagger/ANUMOGET.py" />
@@ -326,6 +321,10 @@
       <jump line="79" column="0" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
       <jump line="117" column="24" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
+      <jump line="105" column="36" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
+      <jump line="143" column="35" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
+      <jump line="6" column="136" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -333,47 +332,47 @@
       <register name="a" type="4">
         <text>self.get_proper_size(1, len(var_names)))</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAga2VybmVscyArPSBwc2V0Lktlcm5lbChCZWFjaFRlc3RpbmdfMkQpCg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCByZQppbXBvcnQgcGFuZGFzIGFzIHBkCmZyb20gY29uZmlnLnBhcmFtcyBpbXBvcnQgRGF0YUNvbHMKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQoKZGVmIHJlYWRfYWxsX2ZpbGVzKGlucHV0X2ZvbGRlcik6CiAgICBhbGxfZmlsZXMgPSBbb3MucGF0aC5qb2luKGRwLCBmKSBmb3IgZHAsIGRuLCBmbiBpbiBvcy53YWxrKG9zLnBhdGguZXhwYW5kdXNlcihpbnB1dF9mb2xkZXIpKSBmb3IgZiBpbiBmbl0KICAgIHJldHVybiBhbGxfZmlsZXMKCmRlZiBtYXRjaF9maWxlc19kYXRlcyhmaWxlcywgZGIpOgogICAgdHNfaWQgPSBkYi5pbmRleC52YWx1ZXMKCiAgICBkYltEYXRhQ29scy5jb3Jkc19maWxlLnZhbHVlXSA9ICcnCgogICAgY29vcmRzX2ZpbGVfcGF0dGVybiA9IEYnd3Jmb3V0X2MxNWQuKicKICAgIGNvb3Jkc19yZSA9IHJlLmNvbXBpbGUoY29vcmRzX2ZpbGVfcGF0dGVybikKICAgIGNvb3Jkc19maWxlID0gW3ggZm9yIHggaW4gZmlsZXMgaWYgbGVuKGNvb3Jkc19yZS5maW5kYWxsKHgpKSA+IDBdWzBdCiAgICBmb3IgaSBpbiB0c19pZDoKICAgICAgICBjX2RhdGVfb3JpZyA9IGRiLmxvY1tpXVtEYXRhQ29scy50aW1lLnZhbHVlXQogICAgICAgIGNfZGF0ZV9vcmlnID0gcGQudG9fZGF0ZXRpbWUoY19kYXRlX29yaWcpCiAgICAgICAgIyBjX2RhdGVfZml4ZWQgPSBjX2RhdGVfb3JpZyArIHRpbWVkZWx0YShob3Vycz0tNikKICAgICAgICBjX2RhdGVfZml4ZWQgPSBjX2RhdGVfb3JpZyArIHRpbWVkZWx0YShob3Vycz0wKQogICAgICAgIGNfeWVhciA9IGNfZGF0ZV9maXhlZC55ZWFyCiAgICAgICAgY19tb250aCA9IGNfZGF0ZV9maXhlZC5tb250aAogICAgICAgIGNfZGF5ID0gY19kYXRlX2ZpeGVkLmRheQoKICAgICAgICBmaWxlX3BhdHRlcm4gPSBGJ3dyZm91dF9jMWguKntjX3llYXJ9LXtjX21vbnRoOjAyZH0te2NfZGF5OjAyZH0uKicKICAgICAgICBmaWxlX3JlID0gcmUuY29tcGlsZShmaWxlX3BhdHRlcm4pCiAgICAgICAgZm9yIGNfZmlsZSBpbiBmaWxlczoKICAgICAgICAgICAgY19maWxlX25hbWUgPSBvcy5wYXRoLmJhc2VuYW1lKGNfZmlsZSkKICAgICAgICAgICAgbSA9IGZpbGVfcmUuZmluZGFsbChjX2ZpbGVfbmFtZSkKICAgICAgICAgICAgaWYgbGVuKG0pID4gMDoKICAgICAgICAgICAgICAgIGRiLmF0W2ksIERhdGFDb2xzLm5ldGNkZl9maWxlLnZhbHVlXSA9IGNfZmlsZQogICAgICAgICAgICAgICAgZGIuYXRbaSwgRGF0YUNvbHMuY29yZHNfZmlsZS52YWx1ZV0gPSBjb29yZHNfZmlsZQogICAgICAgICAgICAgICAgYnJlYWsKCgogICAgbmV3ZGIgPSBkYltkYltEYXRhQ29scy5uZXRjZGZfZmlsZS52YWx1ZV0gIT0gJyddCiAgICByZXR1cm4gbmV3ZGIKCgpkZWYgcmVhZF90c19kYihmaWxlX25hbWUsIGJib3g9Tm9uZSk6CiAgICBkZiA9IHBkLnJlYWRfY3N2KGZpbGVfbmFtZSwgaGVhZGVyPTAsIHBhcnNlX2RhdGVzPVsndGltZSddKQogICAgcHJpbnQoZGYpCiAgICBkZltEYXRhQ29scy5jZW50ZXIudmFsdWVdID0gZGZbJ2xhdCddLmFzdHlwZSgnc3RyJykgKyAnLCcgKyBkZlsnbG9uJ10uYXN0eXBlKCdzdHInKQogICAgZGZbRGF0YUNvbHMubmV0Y2RmX2ZpbGUudmFsdWVdID0gJycKICAgIGlmIGJib3ggaXMgTm9uZToKICAgICAgICByZXR1cm4gZGYKICAgIGVsc2U6CiAgICAgICAgbWlubGF0ID0gYmJveFswXQogICAgICAgIG1pbmxvbj0gYmJveFsxXQogICAgICAgIG1heGxhdCA9IGJib3hbMl0KICAgICAgICBtYXhsb24gPSBiYm94WzNdCiAgICAgICAgaW5kZXggPSAoZGZbJ2xhdCddID49IG1pbmxhdCkgJiAoZGZbJ2xvbiddID49IG1pbmxvbikgJiAoZGZbJ2xhdCddIDw9IG1heGxhdCkgJiAoZGZbJ2xvbiddIDw9IG1heGxvbikKICAgICAgICByZXR1cm4gZGZbaW5kZXhdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx6ZXJvc1w+</text>
+        <text encoding="base64">XDxCcm93bmlhbk1vdGlvbjJEXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpZy5jb2xvcmJhcihjcywgY2F4PWNheCwgZXh0ZW5kPSdib3RoJywgKiprdykK</text>
+        <text encoding="base64">ICAgICAgICBpZiBkaWZmdXNpb246CiAgICAgICAgICAgIGtlcm5lbHMgKz0gcHNldC5LZXJuZWwoQnJvd25pYW5Nb3Rpb24yRCkKICAgICAgICAgICAga2VybmVscyArPSBwc2V0Lktlcm5lbChCZWFjaFRlc3RpbmdfMkQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlkeCA9IGRhdGEgPT0gMAogICAgZGF0YVtpZHhdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2VybmVscyArPSBwc2V0Lktlcm5lbChCZWFjaFRlc3RpbmdfMkQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGFbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlkeCA9IGRhdGEgPT0gMAo=</text>
+        <text encoding="base64">ICAgICAgICBrZXJuZWxzID0gcHNldC5LZXJuZWwoQWR2ZWN0aW9uUks0QmVhY2hlZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNtYXAgPSBjbS5QdUJ1X3IK</text>
+        <text encoding="base64">ICAgICAgICBrZXJuZWxzID0gcHNldC5LZXJuZWwoQWR2ZWN0aW9uUks0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZmlnLmNvbG9yYmFyKG1wbC5jbS5TY2FsYXJNYXBwYWJsZShub3JtPW5vcm0sIGNtYXA9Y21hcCksCiAgICAjICAgICAgICAgICAgICBjYXg9YXgsIG9yaWVudGF0aW9uPSdob3Jpem9udGFsJywgbGFiZWw9J1NvbWUgVW5pdHMnKQo=</text>
+        <text encoding="base64">ICAgIHBhcnRpY2xlLmJlYWNoZWQgPSAzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNzID0gcGx0LmNvbnRvdXJmKExPTlMsIExBVFMsIGRhdGEsIG5fY29sb3JzLCB0cmFuc2Zvcm09Y2Nycy5QbGF0ZUNhcnJlZSgpKQo=</text>
+        <text encoding="base64">ICAgIGlmIHBhcnRpY2xlLmJlYWNoZWQgPT0gMDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpZy5jb2xvcmJhcihtcGwuY20uU2NhbGFyTWFwcGFibGUobm9ybT1ub3JtLCBjbWFwPWNtYXApLAogICAgICAgICAgICAgICAgIGNheD1heHMsIG9yaWVudGF0aW9uPSdob3Jpem9udGFsJywgbGFiZWw9J1NvbWUgVW5pdHMnKQo=</text>
+        <text encoding="base64">ICAgIGlkeCA9IGRhdGEgPT0gMAogICAgZGF0YVtpZHhdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGFbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -382,9 +381,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx6ZXJvc1w+</last-search>
+      <last-search encoding="base64">XDxCcm93bmlhbk1vdGlvbjJEXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx6ZXJvc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxCcm93bmlhbk1vdGlvbjJEXD4=</last-pattern>
       <last-replace>ones</last-replace>
       <last-substitute encoding="base64">XDx6ZXJvc1w+</last-substitute>
       <last-dir>1</last-dir>
