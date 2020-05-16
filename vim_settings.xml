@@ -128,7 +128,7 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="30" column="16" />
       </file>
-      <file name="/Python Console" timestamp="1589651907046">
+      <file name="/Python Console" timestamp="1589652226389">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1588881883912">
@@ -152,7 +152,7 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/2_OceanParcels_to_JSON_and_ZIP_V2.py" timestamp="1588869320644">
+      <file name="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/2_OceanParcels_to_JSON_and_ZIP_V2.py" timestamp="1589652148668">
         <mark key="'" line="17" column="27" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="28" />
@@ -180,7 +180,8 @@
         <mark key="." line="96" column="63" />
         <mark key="^" line="96" column="64" />
       </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/config/MainConfig.py" timestamp="1589651814557">
+      <file name="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/config/MainConfig.py" timestamp="1589652217469">
+        <mark key="'" line="24" column="58" />
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="18" />
@@ -210,11 +211,11 @@
         <mark key="." line="29" column="73" />
         <mark key="^" line="29" column="82" />
       </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/1_Show_Output.py" timestamp="1589651956823">
-        <mark key="'" line="37" column="17" />
-        <mark key="[" line="37" column="46" />
-        <mark key="]" line="38" column="16" />
-        <mark key="." line="38" column="15" />
+      <file name="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/1_Show_Output.py" timestamp="1589652223132">
+        <mark key="'" line="41" column="29" />
+        <mark key="[" line="79" column="68" />
+        <mark key="]" line="79" column="69" />
+        <mark key="." line="79" column="69" />
         <mark key="^" line="38" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/OZ_LIB/image_visualization/img_viz/eoa_viz.py" timestamp="1588870396839">
@@ -228,8 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="17" filename="$USER_HOME$/Dropbox/TutorialsByMe/Python/PythonExamples/Python/AwesomeGeoTagger/ANUMOGET.py" />
-      <jump line="19" column="38" filename="$USER_HOME$/Dropbox/TutorialsByMe/Python/PythonExamples/Python/AwesomeGeoTagger/inout/reader.py" />
       <jump line="20" column="48" filename="$USER_HOME$/Dropbox/TutorialsByMe/Python/PythonExamples/Python/AwesomeGeoTagger/inout/reader.py" />
       <jump line="30" column="34" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/config/MainConfig.py" />
       <jump line="25" column="113" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/02_once_Countries_and_Oceans_from_locations.py" />
@@ -328,6 +327,8 @@
       <jump line="76" column="4" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/1_Show_Output.py" />
       <jump line="7" column="10" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/1_Show_Output.py" />
       <jump line="37" column="17" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/1_Show_Output.py" />
+      <jump line="41" column="29" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/1_Show_Output.py" />
+      <jump line="24" column="58" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/config/MainConfig.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
