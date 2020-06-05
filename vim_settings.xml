@@ -128,10 +128,10 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="30" column="16" />
       </file>
-      <file name="/Python Console" timestamp="1591375006038">
+      <file name="/Python Console" timestamp="1591376859179">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1591374976906">
+      <file name="/fragment.py" timestamp="1591376977308">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -152,12 +152,12 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/UM/ProstateSegCNN/code/config/MainConfig.py" timestamp="1591374542663">
+      <file name="$USER_HOME$/Dropbox/MyProjects/UM/ProstateSegCNN/code/config/MainConfig.py" timestamp="1591376092020">
         <mark key="'" line="52" column="20" />
-        <mark key="[" line="54" column="73" />
-        <mark key="]" line="54" column="75" />
-        <mark key="." line="54" column="74" />
-        <mark key="^" line="54" column="75" />
+        <mark key="[" line="56" column="27" />
+        <mark key="]" line="56" column="32" />
+        <mark key="." line="56" column="31" />
+        <mark key="^" line="56" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/UM/ProstateSegCNN/code/config/Example_MainConfig.py" timestamp="1591373870590">
         <mark key="[" line="124" column="0" />
@@ -186,15 +186,12 @@
         <mark key="." line="96" column="63" />
         <mark key="^" line="96" column="64" />
       </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/UM/ProstateSegCNN/code/MakeSegmentation2D.py" timestamp="1591374981294">
-        <mark key="'" line="191" column="18" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="90" column="98" />
-      </file>
-      <file name="/" timestamp="1588785979201">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Dropbox/MyProjects/UM/ProstateSegCNN/code/MakeSegmentation2D.py" timestamp="1591377240235">
+        <mark key="'" line="54" column="108" />
+        <mark key="[" line="60" column="26" />
+        <mark key="]" line="60" column="57" />
+        <mark key="^" line="60" column="57" />
+        <mark key="." line="60" column="56" />
       </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" timestamp="1589651795893">
         <mark key="'" line="68" column="0" />
@@ -222,14 +219,15 @@
         <mark key="]" line="26" column="37" />
         <mark key="." line="26" column="37" />
       </file>
+      <file name="$USER_HOME$/Dropbox/MyProjects/UM/ProstateSegCNN/code/models/models2d.py" timestamp="1591376459607">
+        <mark key="'" line="101" column="88" />
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="5" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="29" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/000_Make_UnbeachField.py" />
-      <jump line="18" column="41" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
-      <jump line="52" column="4" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
-      <jump line="56" column="35" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
       <jump line="39" column="23" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
       <jump line="67" column="8" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
       <jump line="16" column="48" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
@@ -324,6 +322,12 @@
       <jump line="154" column="4" filename="$USER_HOME$/Dropbox/MyProjects/UM/ProstateSegCNN/code/visualization/utilsviz.py" />
       <jump line="23" column="7" filename="$USER_HOME$/Dropbox/MyProjects/UM/ProstateSegCNN/code/visualization/utilsviz.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Dropbox/MyProjects/UM/ProstateSegCNN/code/visualization/utilsviz.py" />
+      <jump line="133" column="48" filename="$USER_HOME$/Dropbox/MyProjects/UM/ProstateSegCNN/code/MakeSegmentation2D.py" />
+      <jump line="157" column="0" filename="$USER_HOME$/Dropbox/MyProjects/UM/ProstateSegCNN/code/MakeSegmentation2D.py" />
+      <jump line="101" column="88" filename="$USER_HOME$/Dropbox/MyProjects/UM/ProstateSegCNN/code/models/models2d.py" />
+      <jump line="44" column="29" filename="$USER_HOME$/Dropbox/MyProjects/UM/ProstateSegCNN/code/MakeSegmentation2D.py" />
+      <jump line="185" column="4" filename="$USER_HOME$/Dropbox/MyProjects/UM/ProstateSegCNN/code/models/models2d.py" />
+      <jump line="54" column="108" filename="$USER_HOME$/Dropbox/MyProjects/UM/ProstateSegCNN/code/MakeSegmentation2D.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -331,20 +335,20 @@
       <register name="a" type="4">
         <text>self.get_proper_size(1, len(var_names)))</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcm9pX2ltZ19idmEgPSBzaXRrLkdldEFycmF5RnJvbUltYWdlKHNpdGsuUmVhZEltYWdlKGpvaW4oaW5wdXREaXJlY3RvcnksIGN1cnJlbnRfZm9sZGVyLCAncm9pX2J2YWwubnJyZCcpKSkK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCByZQppbXBvcnQgcGFuZGFzIGFzIHBkCmZyb20gY29uZmlnLnBhcmFtcyBpbXBvcnQgRGF0YUNvbHMKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQoKZGVmIHJlYWRfYWxsX2ZpbGVzKGlucHV0X2ZvbGRlcik6CiAgICBhbGxfZmlsZXMgPSBbb3MucGF0aC5qb2luKGRwLCBmKSBmb3IgZHAsIGRuLCBmbiBpbiBvcy53YWxrKG9zLnBhdGguZXhwYW5kdXNlcihpbnB1dF9mb2xkZXIpKSBmb3IgZiBpbiBmbl0KICAgIHJldHVybiBhbGxfZmlsZXMKCmRlZiBtYXRjaF9maWxlc19kYXRlcyhmaWxlcywgZGIpOgogICAgdHNfaWQgPSBkYi5pbmRleC52YWx1ZXMKCiAgICBkYltEYXRhQ29scy5jb3Jkc19maWxlLnZhbHVlXSA9ICcnCgogICAgY29vcmRzX2ZpbGVfcGF0dGVybiA9IEYnd3Jmb3V0X2MxNWQuKicKICAgIGNvb3Jkc19yZSA9IHJlLmNvbXBpbGUoY29vcmRzX2ZpbGVfcGF0dGVybikKICAgIGNvb3Jkc19maWxlID0gW3ggZm9yIHggaW4gZmlsZXMgaWYgbGVuKGNvb3Jkc19yZS5maW5kYWxsKHgpKSA+IDBdWzBdCiAgICBmb3IgaSBpbiB0c19pZDoKICAgICAgICBjX2RhdGVfb3JpZyA9IGRiLmxvY1tpXVtEYXRhQ29scy50aW1lLnZhbHVlXQogICAgICAgIGNfZGF0ZV9vcmlnID0gcGQudG9fZGF0ZXRpbWUoY19kYXRlX29yaWcpCiAgICAgICAgIyBjX2RhdGVfZml4ZWQgPSBjX2RhdGVfb3JpZyArIHRpbWVkZWx0YShob3Vycz0tNikKICAgICAgICBjX2RhdGVfZml4ZWQgPSBjX2RhdGVfb3JpZyArIHRpbWVkZWx0YShob3Vycz0wKQogICAgICAgIGNfeWVhciA9IGNfZGF0ZV9maXhlZC55ZWFyCiAgICAgICAgY19tb250aCA9IGNfZGF0ZV9maXhlZC5tb250aAogICAgICAgIGNfZGF5ID0gY19kYXRlX2ZpeGVkLmRheQoKICAgICAgICBmaWxlX3BhdHRlcm4gPSBGJ3dyZm91dF9jMWguKntjX3llYXJ9LXtjX21vbnRoOjAyZH0te2NfZGF5OjAyZH0uKicKICAgICAgICBmaWxlX3JlID0gcmUuY29tcGlsZShmaWxlX3BhdHRlcm4pCiAgICAgICAgZm9yIGNfZmlsZSBpbiBmaWxlczoKICAgICAgICAgICAgY19maWxlX25hbWUgPSBvcy5wYXRoLmJhc2VuYW1lKGNfZmlsZSkKICAgICAgICAgICAgbSA9IGZpbGVfcmUuZmluZGFsbChjX2ZpbGVfbmFtZSkKICAgICAgICAgICAgaWYgbGVuKG0pID4gMDoKICAgICAgICAgICAgICAgIGRiLmF0W2ksIERhdGFDb2xzLm5ldGNkZl9maWxlLnZhbHVlXSA9IGNfZmlsZQogICAgICAgICAgICAgICAgZGIuYXRbaSwgRGF0YUNvbHMuY29yZHNfZmlsZS52YWx1ZV0gPSBjb29yZHNfZmlsZQogICAgICAgICAgICAgICAgYnJlYWsKCgogICAgbmV3ZGIgPSBkYltkYltEYXRhQ29scy5uZXRjZGZfZmlsZS52YWx1ZV0gIT0gJyddCiAgICByZXR1cm4gbmV3ZGIKCgpkZWYgcmVhZF90c19kYihmaWxlX25hbWUsIGJib3g9Tm9uZSk6CiAgICBkZiA9IHBkLnJlYWRfY3N2KGZpbGVfbmFtZSwgaGVhZGVyPTAsIHBhcnNlX2RhdGVzPVsndGltZSddKQogICAgcHJpbnQoZGYpCiAgICBkZltEYXRhQ29scy5jZW50ZXIudmFsdWVdID0gZGZbJ2xhdCddLmFzdHlwZSgnc3RyJykgKyAnLCcgKyBkZlsnbG9uJ10uYXN0eXBlKCdzdHInKQogICAgZGZbRGF0YUNvbHMubmV0Y2RmX2ZpbGUudmFsdWVdID0gJycKICAgIGlmIGJib3ggaXMgTm9uZToKICAgICAgICByZXR1cm4gZGYKICAgIGVsc2U6CiAgICAgICAgbWlubGF0ID0gYmJveFswXQogICAgICAgIG1pbmxvbj0gYmJveFsxXQogICAgICAgIG1heGxhdCA9IGJib3hbMl0KICAgICAgICBtYXhsb24gPSBiYm94WzNdCiAgICAgICAgaW5kZXggPSAoZGZbJ2xhdCddID49IG1pbmxhdCkgJiAoZGZbJ2xvbiddID49IG1pbmxvbikgJiAoZGZbJ2xhdCddIDw9IG1heGxhdCkgJiAoZGZbJ2xvbiddIDw9IG1heGxvbikKICAgICAgICByZXR1cm4gZGZbaW5kZXhdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>display</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2F2ZWZpZz1qb2luKG91dHB1dEltYWdlcywgRid7Y3VycmVudF9mb2xkZXJ9X0lucHV0JyksIGxhYmVscz1bJ1Byb3N0YXRlJywnR1QnXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm9pX2ltZ19idmEgPSBzaXRrLkdldEFycmF5RnJvbUltYWdlKHNpdGsuUmVhZEltYWdlKGpvaW4oaW5wdXREaXJlY3RvcnksIGN1cnJlbnRfZm9sZGVyLCAncm9pX2J2YWwubnJyZCcpKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2F2ZWZpZz1qb2luKG91dHB1dEltYWdlcywgJ3t9X0lucHV0Q3V0Jy5mb3JtYXQoY3VycmVudF9mb2xkZXIpKSwgbGFiZWxzPVsnUHJvc3RhdGUnLCdHVCddKQo=</text>
