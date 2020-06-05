@@ -45,8 +45,8 @@
         <entry>ws</entry>
         <entry>:W</entry>
         <entry>%s//ones/g</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -379,7 +379,7 @@
         <text encoding="base64">ICAgIHBhcnRpY2xlLmJlYWNoZWQgPSAzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
