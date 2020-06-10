@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b3ROdW1iZXJzXD4=</entry>
         <entry encoding="base64">XDxteU51bWJlcnNcPg==</entry>
         <entry encoding="base64">XDxsaW5TY2FsZVBvc1w+</entry>
         <entry encoding="base64">XDxsaW5TY2FsZVw+</entry>
@@ -25,6 +24,7 @@
         <entry>getLayers</entry>
         <entry>fill</entry>
         <entry>black</entry>
+        <entry encoding="base64">XDx0b3RhbF90aW1lc3RlcHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wall</entry>
@@ -210,8 +210,8 @@
         <mark key="^" line="24" column="26" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" timestamp="1591821355693">
-        <mark key="'" line="451" column="69" />
+      <file name="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" timestamp="1591822770459">
+        <mark key="'" line="189" column="41" />
         <mark key="[" line="462" column="34" />
         <mark key="]" line="462" column="40" />
         <mark key="^" line="462" column="40" />
@@ -232,14 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="482" column="85" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="490" column="38" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="493" column="85" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="543" column="46" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="104" column="0" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticleVizManager.js" />
-      <jump line="111" column="4" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticleVizManager.js" />
-      <jump line="124" column="20" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticleVizManager.js" />
-      <jump line="329" column="12" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="7" column="6" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/public/index.html" />
       <jump line="142" column="26" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticleVizManager.js" />
       <jump line="447" column="46" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticleVizManager.js" />
@@ -331,7 +323,15 @@
       <jump line="652" column="24" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="683" column="24" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="177" column="20" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticleVizManager.js" />
-      <jump line="451" column="69" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="451" column="61" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="94" column="12" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="150" column="12" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="157" column="46" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="191" column="38" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="194" column="40" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="190" column="55" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="189" column="41" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -349,7 +349,7 @@
         <text>2020-05-05_16_36_output</text>
       </register>
       <register name="/" type="4">
-        <text>black</text>
+        <text encoding="base64">XDx0b3RhbF90aW1lc3RlcHNcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIHsKICAgICAgICBpZDogNCwKICAgICAgICBmaWxlOiAiMS9PbmVZZWFyX09ubHlfQ3VycmVudHMyMDIwLTA1LTA1XzE2XzM2X291dHB1dCIsCiAgICAgICAgdGl0bGU6ICJPbmVZZWFyX09ubHlfQ3VycmVudHMiLAogICAgICAgIC8vIHN0eWxlOiJkZWZhdWx0LXNjYWxhci9kaXYtUFJHbiIsCiAgICAgICAgLy8gc3R5bGU6ImRpdi1QUkduIiwKICAgICAgICBzdHlsZToieC1Tc3QiLAogICAgICAgIHdtczogYGhpc3RvXzA4L2hpc3RvYCwKICAgICAgICBzcGVlZDogIiIsCiAgICAgICAgc3RhcnRfZGF0ZTogbmV3IERhdGUoMjAxMCwgMCwgMSksCiAgICAgICAgbnVtX2ZpbGVzOiA0LAogICAgICAgIG1heF9wYWw6IGRlZl9tYXhfcGFsX3ZhbHVlLAogICAgICAgIG1pbl9wYWw6IDE3LAogICAgfSw=</text>
@@ -388,9 +388,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>black</last-search>
+      <last-search encoding="base64">XDx0b3RhbF90aW1lc3RlcHNcPg==</last-search>
       <last-offset />
-      <last-pattern>black</last-pattern>
+      <last-pattern encoding="base64">XDx0b3RhbF90aW1lc3RlcHNcPg==</last-pattern>
       <last-replace>logScaleValues</last-replace>
       <last-substitute encoding="base64">XDxsaW5TY2FsZVw+</last-substitute>
       <last-dir>1</last-dir>
