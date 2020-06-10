@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>log</entry>
-        <entry>scale</entry>
         <entry encoding="base64">XDx0b3ROdW1iZXJzXD4=</entry>
         <entry encoding="base64">XDxteU51bWJlcnNcPg==</entry>
         <entry encoding="base64">XDxsaW5TY2FsZVBvc1w+</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxQcm9ncmVzc0Jhclw+</entry>
         <entry>4</entry>
         <entry>black</entry>
+        <entry>getLayers</entry>
+        <entry>fill</entry>
       </history-search>
       <history-cmd>
         <entry>wall</entry>
@@ -210,8 +210,8 @@
         <mark key="^" line="24" column="26" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" timestamp="1591814007566">
-        <mark key="'" line="682" column="24" />
+      <file name="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" timestamp="1591814523030">
+        <mark key="'" line="146" column="18" />
         <mark key="[" line="462" column="34" />
         <mark key="]" line="462" column="40" />
         <mark key="^" line="462" column="40" />
@@ -232,8 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="448" column="44" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="449" column="28" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="450" column="47" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="451" column="38" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="452" column="25" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
@@ -332,6 +330,8 @@
       <jump line="720" column="49" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="651" column="24" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="682" column="24" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="477" column="68" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="146" column="18" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -349,7 +349,7 @@
         <text>this.props.colors_by_country[this.country_keys[cur_country_id].toLowerCase()]</text>
       </register>
       <register name="/" type="4">
-        <text>black</text>
+        <text>fill</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGN0eC5zdHJva2VTdHlsZSA9IHRoaXMucHJvcHMuY29sb3JzX2J5X2NvdW50cnlbdGhpcy5jb3VudHJ5X2tleXNbY3VyX2NvdW50cnlfaWRdLnRvTG93ZXJDYXNlKCldCg==</text>
@@ -388,9 +388,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>black</last-search>
+      <last-search>fill</last-search>
       <last-offset />
-      <last-pattern>black</last-pattern>
+      <last-pattern>fill</last-pattern>
       <last-replace>logScaleValues</last-replace>
       <last-substitute encoding="base64">XDxsaW5TY2FsZVw+</last-substitute>
       <last-dir>1</last-dir>
