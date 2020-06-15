@@ -138,8 +138,8 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="26" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticleVizManager.js" timestamp="1592252460244">
-        <mark key="'" line="559" column="90" />
+      <file name="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticleVizManager.js" timestamp="1592254925799">
+        <mark key="'" line="369" column="20" />
         <mark key="[" line="244" column="38" />
         <mark key="]" line="244" column="31" />
         <mark key="." line="244" column="30" />
@@ -202,9 +202,9 @@
         <mark key="^" line="24" column="26" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" timestamp="1592254753857">
+      <file name="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" timestamp="1592254918576">
         <mark key="a" line="398" column="4" />
-        <mark key="'" line="226" column="30" />
+        <mark key="'" line="59" column="13" />
         <mark key="[" line="62" column="23" />
         <mark key="]" line="62" column="23" />
         <mark key="." line="62" column="23" />
@@ -237,8 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="64" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="123" column="31" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="318" column="4" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="502" column="13" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="506" column="13" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
@@ -337,6 +335,8 @@
       <jump line="444" column="50" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="238" column="0" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="226" column="30" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="59" column="13" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="369" column="20" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticleVizManager.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
