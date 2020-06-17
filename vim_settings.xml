@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVSYW5nZVw+</entry>
-        <entry>Title</entry>
-        <entry encoding="base64">XDxkcmF3X3VudGlsX2RheVw+</entry>
-        <entry>title</entry>
         <entry encoding="base64">XDxkaXNwbGF5Q3VycmVudERheVw+</entry>
         <entry>399G</entry>
         <entry>zip</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxnZW9Ub0NhbnZhc1w+</entry>
         <entry>setInterva</entry>
         <entry encoding="base64">XDxCdWxsc2V5ZVw+</entry>
+        <entry>width</entry>
+        <entry>canvas</entry>
+        <entry>render</entry>
+        <entry encoding="base64">XDxkcmF3TGluZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s//state\.interval/gc</entry>
@@ -138,8 +138,8 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="26" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticleVizManager.js" timestamp="1592412946742">
-        <mark key="'" line="39" column="24" />
+      <file name="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticleVizManager.js" timestamp="1592415414673">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="573" column="76" />
         <mark key="]" line="573" column="82" />
         <mark key="." line="573" column="81" />
@@ -199,9 +199,12 @@
         <mark key="^" line="24" column="26" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" timestamp="1592412164467">
-        <mark key="'" line="328" column="8" />
-        <mark key="^" line="487" column="12" />
+      <file name="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" timestamp="1592415706216">
+        <mark key="'" line="516" column="16" />
+        <mark key="[" line="456" column="0" />
+        <mark key="]" line="459" column="25" />
+        <mark key="^" line="455" column="48" />
+        <mark key="." line="456" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/css/App.css" timestamp="1591989308917">
         <mark key="'" line="41" column="8" />
@@ -231,16 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="320" column="4" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="612" column="4" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="622" column="13" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="606" column="4" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="815" column="0" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="763" column="63" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="764" column="55" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="771" column="61" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="126" column="35" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="633" column="13" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="613" column="4" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="623" column="13" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="602" column="13" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
@@ -262,7 +255,6 @@
       <jump line="718" column="0" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="93" column="49" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="110" column="37" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="111" column="30" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="115" column="32" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="274" column="33" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="276" column="49" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
@@ -331,6 +323,17 @@
       <jump line="572" column="82" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticleVizManager.js" />
       <jump line="566" column="37" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticleVizManager.js" />
       <jump line="39" column="24" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticleVizManager.js" />
+      <jump line="428" column="32" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="660" column="40" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="440" column="48" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="546" column="18" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticleVizManager.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticleVizManager.js" />
+      <jump line="521" column="12" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="737" column="4" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="424" column="26" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="462" column="4" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="111" column="30" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="515" column="16" filename="$USER_HOME$/Desktop/WORKWEB/Web_Visualizer/src/ParticlesLayer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,51 +341,53 @@
       <register name="a" type="4">
         <text>self.get_proper_size(1, len(var_names)))</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>json</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuY3R4LnN0cm9rZSgpCg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCByZQppbXBvcnQgcGFuZGFzIGFzIHBkCmZyb20gY29uZmlnLnBhcmFtcyBpbXBvcnQgRGF0YUNvbHMKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQoKZGVmIHJlYWRfYWxsX2ZpbGVzKGlucHV0X2ZvbGRlcik6CiAgICBhbGxfZmlsZXMgPSBbb3MucGF0aC5qb2luKGRwLCBmKSBmb3IgZHAsIGRuLCBmbiBpbiBvcy53YWxrKG9zLnBhdGguZXhwYW5kdXNlcihpbnB1dF9mb2xkZXIpKSBmb3IgZiBpbiBmbl0KICAgIHJldHVybiBhbGxfZmlsZXMKCmRlZiBtYXRjaF9maWxlc19kYXRlcyhmaWxlcywgZGIpOgogICAgdHNfaWQgPSBkYi5pbmRleC52YWx1ZXMKCiAgICBkYltEYXRhQ29scy5jb3Jkc19maWxlLnZhbHVlXSA9ICcnCgogICAgY29vcmRzX2ZpbGVfcGF0dGVybiA9IEYnd3Jmb3V0X2MxNWQuKicKICAgIGNvb3Jkc19yZSA9IHJlLmNvbXBpbGUoY29vcmRzX2ZpbGVfcGF0dGVybikKICAgIGNvb3Jkc19maWxlID0gW3ggZm9yIHggaW4gZmlsZXMgaWYgbGVuKGNvb3Jkc19yZS5maW5kYWxsKHgpKSA+IDBdWzBdCiAgICBmb3IgaSBpbiB0c19pZDoKICAgICAgICBjX2RhdGVfb3JpZyA9IGRiLmxvY1tpXVtEYXRhQ29scy50aW1lLnZhbHVlXQogICAgICAgIGNfZGF0ZV9vcmlnID0gcGQudG9fZGF0ZXRpbWUoY19kYXRlX29yaWcpCiAgICAgICAgIyBjX2RhdGVfZml4ZWQgPSBjX2RhdGVfb3JpZyArIHRpbWVkZWx0YShob3Vycz0tNikKICAgICAgICBjX2RhdGVfZml4ZWQgPSBjX2RhdGVfb3JpZyArIHRpbWVkZWx0YShob3Vycz0wKQogICAgICAgIGNfeWVhciA9IGNfZGF0ZV9maXhlZC55ZWFyCiAgICAgICAgY19tb250aCA9IGNfZGF0ZV9maXhlZC5tb250aAogICAgICAgIGNfZGF5ID0gY19kYXRlX2ZpeGVkLmRheQoKICAgICAgICBmaWxlX3BhdHRlcm4gPSBGJ3dyZm91dF9jMWguKntjX3llYXJ9LXtjX21vbnRoOjAyZH0te2NfZGF5OjAyZH0uKicKICAgICAgICBmaWxlX3JlID0gcmUuY29tcGlsZShmaWxlX3BhdHRlcm4pCiAgICAgICAgZm9yIGNfZmlsZSBpbiBmaWxlczoKICAgICAgICAgICAgY19maWxlX25hbWUgPSBvcy5wYXRoLmJhc2VuYW1lKGNfZmlsZSkKICAgICAgICAgICAgbSA9IGZpbGVfcmUuZmluZGFsbChjX2ZpbGVfbmFtZSkKICAgICAgICAgICAgaWYgbGVuKG0pID4gMDoKICAgICAgICAgICAgICAgIGRiLmF0W2ksIERhdGFDb2xzLm5ldGNkZl9maWxlLnZhbHVlXSA9IGNfZmlsZQogICAgICAgICAgICAgICAgZGIuYXRbaSwgRGF0YUNvbHMuY29yZHNfZmlsZS52YWx1ZV0gPSBjb29yZHNfZmlsZQogICAgICAgICAgICAgICAgYnJlYWsKCgogICAgbmV3ZGIgPSBkYltkYltEYXRhQ29scy5uZXRjZGZfZmlsZS52YWx1ZV0gIT0gJyddCiAgICByZXR1cm4gbmV3ZGIKCgpkZWYgcmVhZF90c19kYihmaWxlX25hbWUsIGJib3g9Tm9uZSk6CiAgICBkZiA9IHBkLnJlYWRfY3N2KGZpbGVfbmFtZSwgaGVhZGVyPTAsIHBhcnNlX2RhdGVzPVsndGltZSddKQogICAgcHJpbnQoZGYpCiAgICBkZltEYXRhQ29scy5jZW50ZXIudmFsdWVdID0gZGZbJ2xhdCddLmFzdHlwZSgnc3RyJykgKyAnLCcgKyBkZlsnbG9uJ10uYXN0eXBlKCdzdHInKQogICAgZGZbRGF0YUNvbHMubmV0Y2RmX2ZpbGUudmFsdWVdID0gJycKICAgIGlmIGJib3ggaXMgTm9uZToKICAgICAgICByZXR1cm4gZGYKICAgIGVsc2U6CiAgICAgICAgbWlubGF0ID0gYmJveFswXQogICAgICAgIG1pbmxvbj0gYmJveFsxXQogICAgICAgIG1heGxhdCA9IGJib3hbMl0KICAgICAgICBtYXhsb24gPSBiYm94WzNdCiAgICAgICAgaW5kZXggPSAoZGZbJ2xhdCddID49IG1pbmxhdCkgJiAoZGZbJ2xvbiddID49IG1pbmxvbikgJiAoZGZbJ2xhdCddIDw9IG1heGxhdCkgJiAoZGZbJ2xvbiddIDw9IG1heGxvbikKICAgICAgICByZXR1cm4gZGZbaW5kZXhdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>json</text>
+        <text>this.ctx)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCdWxsc2V5ZVw+</text>
+        <text encoding="base64">XDxkcmF3TGluZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhyZWY9e2Ake2RhdGFfZm9sZGVyX3VybH0vV29ybGRfbGl0dGVyX3N0YXRzLnRhci54emB9Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuY3R4LnN0cm9rZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17dGhpcy50b29nbGVIaXN0b2dyYW1MYXllcn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFJldHJlaXZlIGFsbCB0aGUgaW5mb3JtYXRpb24gZnJvbSB0aGUgZmlyc3QgYXZhaWxhYmxlIGZpbGUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17dGhpcy50b29nbGVIaXN0b2dyYW1MYXllcn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuY3R4LmJlZ2luUGF0aCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgID4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRoaXMuY3R4LnN0cm9rZVN0eWxlID0gJ2JsYWNrJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17dGhpcy50b29nbGVIaXN0b2dyYW1MYXllcn0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuY3R4LnN0cm9rZVN0eWxlID0gdGhpcy5wcm9wcy5jb2xvcnNfYnlfY291bnRyeVt0aGlzLmNvdW50cnlfa2V5c1tjdXJfY291bnRyeV9pZF0udG9Mb3dlckNhc2UoKV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBvbGRwb3MgPSBbMCwgMF0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhbnZhcyA9IAo=</text>
+      <register name="6" type="8">
+        <text>d
+d
+d
+d</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5jdHgubW92ZVRvKHBhcnNlSW50KG9sZHBvc1swXSksIHBhcnNlSW50KG9sZHBvc1sxXSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuY3R4LmxpbmVUbyhwYXJzZUludChuZXdwb3NbMF0pLCBwYXJzZUludChuZXdwb3NbMV0pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy5tYXAucmVuZGVyKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5jdHgubW92ZVRvKHBhcnNlSW50KG9sZHBvc1swXSksIHBhcnNlSW50KG9sZHBvc1sxXSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuY3R4LmxpbmVUbyhwYXJzZUludChuZXdwb3NbMF0pLCBwYXJzZUludChuZXdwb3NbMV0pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy5tYXAucmVuZGVyKCkK</text>
       </register>
-      <register name="9" type="8">
-        <text>parseInt(
-parseInt(</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -391,9 +396,9 @@ parseInt(</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxCdWxsc2V5ZVw+</last-search>
+      <last-search encoding="base64">XDxkcmF3TGluZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCdWxsc2V5ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxkcmF3TGluZXNcPg==</last-pattern>
       <last-replace>next_lon</last-replace>
       <last-substitute encoding="base64">XDxubG9uXD4=</last-substitute>
       <last-dir>1</last-dir>
