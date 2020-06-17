@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxCcm93bmlhbk1vdGlvbjJEXD4=</entry>
         <entry encoding="base64">XDxwbG90VHJhamVjdG9yaWVzRmlsZVw+</entry>
         <entry>slices_roi</entry>
         <entry encoding="base64">XDxzbGljZXNfcm9pXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>MPI</entry>
         <entry>vecfmt</entry>
         <entry encoding="base64">XDx2ZWNmbXRcPg==</entry>
+        <entry>100</entry>
       </history-search>
       <history-cmd>
         <entry>s/selected_area/map_state/g</entry>
@@ -122,11 +122,11 @@
       <file name="/Dummy.txt" timestamp="1592408014774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/scripts/run_all_makezip.sh" timestamp="1592410944049">
+      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/scripts/run_all_makezip.sh" timestamp="1592412280386">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
-        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="14" />
       </file>
       <file name="/a.dummy" timestamp="1591642147776">
         <mark key="[" line="0" column="15" />
@@ -195,11 +195,11 @@
         <mark key="^" line="24" column="26" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/2_OceanParcels_to_JSON_and_ZIP_V2.py" timestamp="1592411294909">
-        <mark key="'" line="93" column="54" />
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="24" />
-        <mark key="." line="17" column="24" />
+      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/2_OceanParcels_to_JSON_and_ZIP_V2.py" timestamp="1592412271562">
+        <mark key="'" line="16" column="36" />
+        <mark key="[" line="50" column="30" />
+        <mark key="]" line="50" column="31" />
+        <mark key="." line="50" column="31" />
         <mark key="^" line="31" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/TutorialsByMe/MPI/PythonMPI/Del.py" timestamp="1592405361921">
@@ -222,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="35" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
       <jump line="80" column="12" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
       <jump line="31" column="36" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
       <jump line="29" column="4" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
@@ -322,6 +321,7 @@
       <jump line="29" column="62" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/2_OceanParcels_to_JSON_and_ZIP_V2.py" />
       <jump line="93" column="55" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/2_OceanParcels_to_JSON_and_ZIP_V2.py" />
       <jump line="94" column="54" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/2_OceanParcels_to_JSON_and_ZIP_V2.py" />
+      <jump line="16" column="36" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/2_OceanParcels_to_JSON_and_ZIP_V2.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,7 +339,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2ZWNmbXRcPg==</text>
+        <text>100</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIE1QSToKICAgICAgICBpZiBNUEkuQ09NTV9XT1JMRC5HZXRfcmFuaygpICE9IDA6CiAgICAgICAgICAgIGV4ZWNfbmV4dCA9IEZhbHNlICMgVGhlIG5leHQgY29kZSB3ZSB3YW50IHRoYXQgb25seSBhIHNpbmdsZSBDUFUgZXhlY3V0ZXMgaXQK</text>
@@ -382,9 +382,9 @@ variable_to_share = comm.bcast(variable_to_share, root=0) # Send from 0 to other
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx2ZWNmbXRcPg==</last-search>
+      <last-search>100</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2ZWNmbXRcPg==</last-pattern>
+      <last-pattern>100</last-pattern>
       <last-replace />
       <last-substitute>\.nc</last-substitute>
       <last-dir>1</last-dir>
