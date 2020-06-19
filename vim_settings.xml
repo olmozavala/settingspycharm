@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwbG90VHJhamVjdG9yaWVzRmlsZVw+</entry>
-        <entry>slices_roi</entry>
-        <entry encoding="base64">XDxzbGljZXNfcm9pXD4=</entry>
         <entry encoding="base64">XDx2aWV3X3Jlc3VsdHNcPg==</entry>
         <entry>display</entry>
         <entry encoding="base64">XDxwbHRcPg==</entry>
@@ -25,9 +22,11 @@
         <entry encoding="base64">XDx2ZWNmbXRcPg==</entry>
         <entry>100</entry>
         <entry>range</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry encoding="base64">XDxnZW9kYXRhXD4=</entry>
+        <entry>min</entry>
       </history-search>
       <history-cmd>
-        <entry>s/selected_area/map_state/g</entry>
         <entry>wq</entry>
         <entry>s//255/g</entry>
         <entry>s/lats/lons/g</entry>
@@ -43,10 +42,11 @@
         <entry>wqall</entry>
         <entry>qall</entry>
         <entry>vs</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>%s/\.nc//g</entry>
         <entry>q</entry>
+        <entry>s/min/max</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -128,6 +128,12 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="14" />
       </file>
+      <file name="/Python Console" timestamp="1592595222272">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1592595423206">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1591642147776">
         <mark key="[" line="0" column="15" />
       </file>
@@ -142,11 +148,6 @@
         <mark key="]" line="14" column="38" />
         <mark key="^" line="18" column="28" />
         <mark key="." line="14" column="38" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/UM/Ashish/code/config/MainConfig.py" timestamp="1591378835190">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TutorialsByMe/MPI/PythonMPI/HelloMPI.py" timestamp="1592407766710">
         <mark key="'" line="10" column="65" />
@@ -165,13 +166,6 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TutorialsByMe/JS/ES6/index.html" timestamp="1591388585656">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="144" column="42" />
-        <mark key="]" line="144" column="42" />
-        <mark key="." line="144" column="42" />
-        <mark key="^" line="143" column="42" />
-      </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" timestamp="1591642283118">
         <mark key="'" line="15" column="28" />
       </file>
@@ -180,11 +174,12 @@
         <mark key="]" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/TROSTDIS_ECMWF/ECMWF/config_ecmwf/params.py" timestamp="1591634309806">
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="4" column="18" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="4" column="17" />
+      <file name="$USER_HOME$/Dropbox/TutorialsByMe/Dash/Maps_Density.py" timestamp="1592595683352">
+        <mark key="'" line="138" column="32" />
+        <mark key="[" line="22" column="68" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/AwesomeGeoTagger/config/MainConfig.py" timestamp="1592594783232">
         <mark key="[" line="9" column="49" />
@@ -231,16 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="8" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
-      <jump line="47" column="37" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
-      <jump line="114" column="0" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
-      <jump line="122" column="56" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
-      <jump line="113" column="17" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
-      <jump line="41" column="4" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
-      <jump line="46" column="38" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
-      <jump line="126" column="80" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
-      <jump line="33" column="36" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
-      <jump line="127" column="80" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
       <jump line="51" column="4" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
       <jump line="53" column="27" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
       <jump line="116" column="58" filename="$USER_HOME$/Dropbox/MyProjects/COAPS/UN_Ocean_Litter/WorldLitter/4_MakeHistogram.py" />
@@ -331,6 +316,16 @@
       <jump line="112" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/2_OceanParcels_to_JSON_and_ZIP_V2.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/AwesomeGeoTagger/inout/reader.py" />
       <jump line="107" column="4" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/AwesomeGeoTagger/inout/reader.py" />
+      <jump line="166" column="29" filename="$USER_HOME$/Dropbox/TutorialsByMe/Dash/Maps_Density.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Dropbox/TutorialsByMe/Dash/Maps_Density.py" />
+      <jump line="91" column="31" filename="$USER_HOME$/Dropbox/TutorialsByMe/Dash/Maps_Density.py" />
+      <jump line="46" column="12" filename="$USER_HOME$/Dropbox/TutorialsByMe/Dash/Maps_Density.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/Dropbox/TutorialsByMe/Dash/Maps_Density.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Dropbox/TutorialsByMe/Dash/Maps_Density.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Dropbox/TutorialsByMe/Dash/Maps_Density.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Dropbox/TutorialsByMe/Dash/Maps_Density.py" />
+      <jump line="79" column="26" filename="$USER_HOME$/Dropbox/TutorialsByMe/Dash/Maps_Density.py" />
+      <jump line="138" column="32" filename="$USER_HOME$/Dropbox/TutorialsByMe/Dash/Maps_Density.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,59 +334,84 @@
         <text>self.get_proper_size(1, len(var_names)))</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'/home/olmozavala/Dropbox/MyProjects/TROSTDIS_ECMWF</text>
+        <text>styles = {
+    'pre': {
+        'border': 'thin lightgrey solid',
+        'overflowX': 'scroll'
+    }
+}</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCByZQppbXBvcnQgcGFuZGFzIGFzIHBkCmZyb20gY29uZmlnLnBhcmFtcyBpbXBvcnQgRGF0YUNvbHMKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQoKZGVmIHJlYWRfYWxsX2ZpbGVzKGlucHV0X2ZvbGRlcik6CiAgICBhbGxfZmlsZXMgPSBbb3MucGF0aC5qb2luKGRwLCBmKSBmb3IgZHAsIGRuLCBmbiBpbiBvcy53YWxrKG9zLnBhdGguZXhwYW5kdXNlcihpbnB1dF9mb2xkZXIpKSBmb3IgZiBpbiBmbl0KICAgIHJldHVybiBhbGxfZmlsZXMKCmRlZiBtYXRjaF9maWxlc19kYXRlcyhmaWxlcywgZGIpOgogICAgdHNfaWQgPSBkYi5pbmRleC52YWx1ZXMKCiAgICBkYltEYXRhQ29scy5jb3Jkc19maWxlLnZhbHVlXSA9ICcnCgogICAgY29vcmRzX2ZpbGVfcGF0dGVybiA9IEYnd3Jmb3V0X2MxNWQuKicKICAgIGNvb3Jkc19yZSA9IHJlLmNvbXBpbGUoY29vcmRzX2ZpbGVfcGF0dGVybikKICAgIGNvb3Jkc19maWxlID0gW3ggZm9yIHggaW4gZmlsZXMgaWYgbGVuKGNvb3Jkc19yZS5maW5kYWxsKHgpKSA+IDBdWzBdCiAgICBmb3IgaSBpbiB0c19pZDoKICAgICAgICBjX2RhdGVfb3JpZyA9IGRiLmxvY1tpXVtEYXRhQ29scy50aW1lLnZhbHVlXQogICAgICAgIGNfZGF0ZV9vcmlnID0gcGQudG9fZGF0ZXRpbWUoY19kYXRlX29yaWcpCiAgICAgICAgIyBjX2RhdGVfZml4ZWQgPSBjX2RhdGVfb3JpZyArIHRpbWVkZWx0YShob3Vycz0tNikKICAgICAgICBjX2RhdGVfZml4ZWQgPSBjX2RhdGVfb3JpZyArIHRpbWVkZWx0YShob3Vycz0wKQogICAgICAgIGNfeWVhciA9IGNfZGF0ZV9maXhlZC55ZWFyCiAgICAgICAgY19tb250aCA9IGNfZGF0ZV9maXhlZC5tb250aAogICAgICAgIGNfZGF5ID0gY19kYXRlX2ZpeGVkLmRheQoKICAgICAgICBmaWxlX3BhdHRlcm4gPSBGJ3dyZm91dF9jMWguKntjX3llYXJ9LXtjX21vbnRoOjAyZH0te2NfZGF5OjAyZH0uKicKICAgICAgICBmaWxlX3JlID0gcmUuY29tcGlsZShmaWxlX3BhdHRlcm4pCiAgICAgICAgZm9yIGNfZmlsZSBpbiBmaWxlczoKICAgICAgICAgICAgY19maWxlX25hbWUgPSBvcy5wYXRoLmJhc2VuYW1lKGNfZmlsZSkKICAgICAgICAgICAgbSA9IGZpbGVfcmUuZmluZGFsbChjX2ZpbGVfbmFtZSkKICAgICAgICAgICAgaWYgbGVuKG0pID4gMDoKICAgICAgICAgICAgICAgIGRiLmF0W2ksIERhdGFDb2xzLm5ldGNkZl9maWxlLnZhbHVlXSA9IGNfZmlsZQogICAgICAgICAgICAgICAgZGIuYXRbaSwgRGF0YUNvbHMuY29yZHNfZmlsZS52YWx1ZV0gPSBjb29yZHNfZmlsZQogICAgICAgICAgICAgICAgYnJlYWsKCgogICAgbmV3ZGIgPSBkYltkYltEYXRhQ29scy5uZXRjZGZfZmlsZS52YWx1ZV0gIT0gJyddCiAgICByZXR1cm4gbmV3ZGIKCgpkZWYgcmVhZF90c19kYihmaWxlX25hbWUsIGJib3g9Tm9uZSk6CiAgICBkZiA9IHBkLnJlYWRfY3N2KGZpbGVfbmFtZSwgaGVhZGVyPTAsIHBhcnNlX2RhdGVzPVsndGltZSddKQogICAgcHJpbnQoZGYpCiAgICBkZltEYXRhQ29scy5jZW50ZXIudmFsdWVdID0gZGZbJ2xhdCddLmFzdHlwZSgnc3RyJykgKyAnLCcgKyBkZlsnbG9uJ10uYXN0eXBlKCdzdHInKQogICAgZGZbRGF0YUNvbHMubmV0Y2RmX2ZpbGUudmFsdWVdID0gJycKICAgIGlmIGJib3ggaXMgTm9uZToKICAgICAgICByZXR1cm4gZGYKICAgIGVsc2U6CiAgICAgICAgbWlubGF0ID0gYmJveFswXQogICAgICAgIG1pbmxvbj0gYmJveFsxXQogICAgICAgIG1heGxhdCA9IGJib3hbMl0KICAgICAgICBtYXhsb24gPSBiYm94WzNdCiAgICAgICAgaW5kZXggPSAoZGZbJ2xhdCddID49IG1pbmxhdCkgJiAoZGZbJ2xvbiddID49IG1pbmxvbikgJiAoZGZbJ2xhdCddIDw9IG1heGxhdCkgJiAoZGZbJ2xvbiddIDw9IG1heGxvbikKICAgICAgICByZXR1cm4gZGZbaW5kZXhdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'/home/olmozavala/Dropbox/MyProjects/TROSTDIS_ECMWF</text>
+        <text>[1, .9, .8, .7, .3, .1, 0],</text>
       </register>
       <register name="/" type="4">
-        <text>range</text>
+        <text>min</text>
       </register>
       <register name="0" type="4">
-        <text>F'{root_folder}</text>
+        <text>styles = {
+    'pre': {
+        'border': 'thin lightgrey solid',
+        'overflowX': 'scroll'
+    }
+}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWxsX3JlZHVjZV9wYXJ0aWNsZXNfYnkgPSBbNCwgNl0KbWluX251bWJlcl9wYXJ0aWNsZXMgPSAyMApwYXJ0aWNsZXNFdmVyeVRoaXNUaW1lU3RlcHMgPSAyMDAgICMgSG93IG1hbnkgdGltZXN0ZXBzIHNhdmUgaW4gZWFjaCBmaWxlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">cGFydGljbGVzRXZlcnlUaGlzVGltZVN0ZXBzID0gMjAwICAjIEhvdyBtYW55IHRpbWVzdGVwcyBzYXZlIGluIGVhY2ggZmlsZQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>styles = {
+    'pre': {
+        'border': 'thin lightgrey solid',
+        'overflowX': 'scroll'
+    }
+}
+
+geodata = { &quot;type&quot;: &quot;Feature&quot;,
+            &quot;geometry&quot;: {
+                &quot;type&quot;: &quot;Point&quot;,
+                &quot;coordinates&quot;: [125.6, 10.1]
+            },
+            &quot;properties&quot;: {
+                &quot;name&quot;: &quot;Dinagat Islands&quot;
+                }
+            }</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">YWxsX3JlZHVjZV9wYXJ0aWNsZXNfYnkgPSBbMV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBNUEk6Cg==</text>
+        <text encoding="base64">YWxsX3JlZHVjZV9wYXJ0aWNsZXNfYnkgPSBbNCwgNl0KbWluX251bWJlcl9wYXJ0aWNsZXMgPSAyMApwYXJ0aWNsZXNFdmVyeVRoaXNUaW1lU3RlcHMgPSAyMDAgICMgSG93IG1hbnkgdGltZXN0ZXBzIHNhdmUgaW4gZWFjaCBmaWxlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4ZWNfbmV4dCA9IEZhbHNlICMgVGhlIG5leHQgY29kZSB3ZSB3YW50IHRoYXQgb25seSBhIHNpbmdsZSBDUFUgZXhlY3V0ZXMgaXQK</text>
+        <text encoding="base64">cGFydGljbGVzRXZlcnlUaGlzVGltZVN0ZXBzID0gMjAwICAjIEhvdyBtYW55IHRpbWVzdGVwcyBzYXZlIGluIGVhY2ggZmlsZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgTVBJLkNPTU1fV09STEQuR2V0X3JhbmsoKSAhPSAwOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiRG9uZSAhIikK</text>
+        <text encoding="base64">YWxsX3JlZHVjZV9wYXJ0aWNsZXNfYnkgPSBbMV0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>range</last-search>
+      <last-search>min</last-search>
       <last-offset />
-      <last-pattern>range</last-pattern>
-      <last-replace />
-      <last-substitute>\.nc</last-substitute>
+      <last-pattern>min</last-pattern>
+      <last-replace>max</last-replace>
+      <last-substitute>min</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
