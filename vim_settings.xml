@@ -402,9 +402,9 @@ geodata = { &quot;type&quot;: &quot;Feature&quot;,
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>min</last-search>
+      <last-search>output</last-search>
       <last-offset />
-      <last-pattern>min</last-pattern>
+      <last-pattern>output</last-pattern>
       <last-replace>max</last-replace>
       <last-substitute>min</last-substitute>
       <last-dir>1</last-dir>
