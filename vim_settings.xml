@@ -128,10 +128,10 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1593011633173">
+      <file name="/Python Console" timestamp="1593013408997">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1593011456534">
+      <file name="/fragment.py" timestamp="1593013451423">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" timestamp="1592858956591">
@@ -225,17 +225,15 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/1_Show_Output.py" timestamp="1593010771700">
-        <mark key="'" line="18" column="16" />
-        <mark key="[" line="78" column="45" />
-        <mark key="]" line="78" column="105" />
-        <mark key="^" line="78" column="105" />
-        <mark key="." line="78" column="104" />
+      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/1_Show_Output.py" timestamp="1593013875971">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="106" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="58" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="54" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/2_OceanParcels_to_JSON_and_ZIP_V2.py" />
-      <jump line="16" column="36" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/2_OceanParcels_to_JSON_and_ZIP_V2.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/2_OceanParcels_to_JSON_and_ZIP_V2.py" />
       <jump line="76" column="78" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/2_OceanParcels_to_JSON_and_ZIP_V2.py" />
       <jump line="112" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/2_OceanParcels_to_JSON_and_ZIP_V2.py" />
@@ -279,7 +277,6 @@
       <jump line="43" column="41" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/config/MainConfig.py" />
       <jump line="23" column="43" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/1_Show_Output.py" />
       <jump line="71" column="44" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/1_Show_Output.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/1_Show_Output.py" />
       <jump line="21" column="4" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/1_Show_Output.py" />
       <jump line="137" column="17" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
       <jump line="26" column="6" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
@@ -334,6 +331,9 @@
       <jump line="338" column="12" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
       <jump line="319" column="34" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
       <jump line="59" column="4" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/3_Make_Tables_by_Country.py" />
+      <jump line="79" column="4" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/1_Show_Output.py" />
+      <jump line="17" column="4" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/1_Show_Output.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/1_Show_Output.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,47 +341,47 @@
       <register name="a" type="4">
         <text>self.get_proper_size(1, len(var_names)))</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, 'id': id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZpbGVfbmFtZSA9ICIvZGF0YS9VTl9MaXR0ZXJfZGF0YS9vdXRwdXQvSlVOMjJfMjAxMC0wMS0zMV8yMDEwLTAzLTAyX18wMV9KVU4yMkpVTjIyVGVzdF9VbmJlYWNoaW5nLm5jIgo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCByZQppbXBvcnQgcGFuZGFzIGFzIHBkCmZyb20gY29uZmlnLnBhcmFtcyBpbXBvcnQgRGF0YUNvbHMKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQoKZGVmIHJlYWRfYWxsX2ZpbGVzKGlucHV0X2ZvbGRlcik6CiAgICBhbGxfZmlsZXMgPSBbb3MucGF0aC5qb2luKGRwLCBmKSBmb3IgZHAsIGRuLCBmbiBpbiBvcy53YWxrKG9zLnBhdGguZXhwYW5kdXNlcihpbnB1dF9mb2xkZXIpKSBmb3IgZiBpbiBmbl0KICAgIHJldHVybiBhbGxfZmlsZXMKCmRlZiBtYXRjaF9maWxlc19kYXRlcyhmaWxlcywgZGIpOgogICAgdHNfaWQgPSBkYi5pbmRleC52YWx1ZXMKCiAgICBkYltEYXRhQ29scy5jb3Jkc19maWxlLnZhbHVlXSA9ICcnCgogICAgY29vcmRzX2ZpbGVfcGF0dGVybiA9IEYnd3Jmb3V0X2MxNWQuKicKICAgIGNvb3Jkc19yZSA9IHJlLmNvbXBpbGUoY29vcmRzX2ZpbGVfcGF0dGVybikKICAgIGNvb3Jkc19maWxlID0gW3ggZm9yIHggaW4gZmlsZXMgaWYgbGVuKGNvb3Jkc19yZS5maW5kYWxsKHgpKSA+IDBdWzBdCiAgICBmb3IgaSBpbiB0c19pZDoKICAgICAgICBjX2RhdGVfb3JpZyA9IGRiLmxvY1tpXVtEYXRhQ29scy50aW1lLnZhbHVlXQogICAgICAgIGNfZGF0ZV9vcmlnID0gcGQudG9fZGF0ZXRpbWUoY19kYXRlX29yaWcpCiAgICAgICAgIyBjX2RhdGVfZml4ZWQgPSBjX2RhdGVfb3JpZyArIHRpbWVkZWx0YShob3Vycz0tNikKICAgICAgICBjX2RhdGVfZml4ZWQgPSBjX2RhdGVfb3JpZyArIHRpbWVkZWx0YShob3Vycz0wKQogICAgICAgIGNfeWVhciA9IGNfZGF0ZV9maXhlZC55ZWFyCiAgICAgICAgY19tb250aCA9IGNfZGF0ZV9maXhlZC5tb250aAogICAgICAgIGNfZGF5ID0gY19kYXRlX2ZpeGVkLmRheQoKICAgICAgICBmaWxlX3BhdHRlcm4gPSBGJ3dyZm91dF9jMWguKntjX3llYXJ9LXtjX21vbnRoOjAyZH0te2NfZGF5OjAyZH0uKicKICAgICAgICBmaWxlX3JlID0gcmUuY29tcGlsZShmaWxlX3BhdHRlcm4pCiAgICAgICAgZm9yIGNfZmlsZSBpbiBmaWxlczoKICAgICAgICAgICAgY19maWxlX25hbWUgPSBvcy5wYXRoLmJhc2VuYW1lKGNfZmlsZSkKICAgICAgICAgICAgbSA9IGZpbGVfcmUuZmluZGFsbChjX2ZpbGVfbmFtZSkKICAgICAgICAgICAgaWYgbGVuKG0pID4gMDoKICAgICAgICAgICAgICAgIGRiLmF0W2ksIERhdGFDb2xzLm5ldGNkZl9maWxlLnZhbHVlXSA9IGNfZmlsZQogICAgICAgICAgICAgICAgZGIuYXRbaSwgRGF0YUNvbHMuY29yZHNfZmlsZS52YWx1ZV0gPSBjb29yZHNfZmlsZQogICAgICAgICAgICAgICAgYnJlYWsKCgogICAgbmV3ZGIgPSBkYltkYltEYXRhQ29scy5uZXRjZGZfZmlsZS52YWx1ZV0gIT0gJyddCiAgICByZXR1cm4gbmV3ZGIKCgpkZWYgcmVhZF90c19kYihmaWxlX25hbWUsIGJib3g9Tm9uZSk6CiAgICBkZiA9IHBkLnJlYWRfY3N2KGZpbGVfbmFtZSwgaGVhZGVyPTAsIHBhcnNlX2RhdGVzPVsndGltZSddKQogICAgcHJpbnQoZGYpCiAgICBkZltEYXRhQ29scy5jZW50ZXIudmFsdWVdID0gZGZbJ2xhdCddLmFzdHlwZSgnc3RyJykgKyAnLCcgKyBkZlsnbG9uJ10uYXN0eXBlKCdzdHInKQogICAgZGZbRGF0YUNvbHMubmV0Y2RmX2ZpbGUudmFsdWVdID0gJycKICAgIGlmIGJib3ggaXMgTm9uZToKICAgICAgICByZXR1cm4gZGYKICAgIGVsc2U6CiAgICAgICAgbWlubGF0ID0gYmJveFswXQogICAgICAgIG1pbmxvbj0gYmJveFsxXQogICAgICAgIG1heGxhdCA9IGJib3hbMl0KICAgICAgICBtYXhsb24gPSBiYm94WzNdCiAgICAgICAgaW5kZXggPSAoZGZbJ2xhdCddID49IG1pbmxhdCkgJiAoZGZbJ2xvbiddID49IG1pbmxvbikgJiAoZGZbJ2xhdCddIDw9IG1heGxhdCkgJiAoZGZbJ2xvbiddIDw9IG1heGxvbikKICAgICAgICByZXR1cm4gZGZbaW5kZXhdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, 'continent': continent</text>
+        <text>lons</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWFkZnJvbVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>, 'id': id</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZpbGVfbmFtZSA9ICIvZGF0YS9VTl9MaXR0ZXJfZGF0YS9vdXRwdXQvSlVOMjJfMjAxMC0wMS0zMV8yMDEwLTAzLTAyX18wMV9KVU4yMkpVTjIyVGVzdF9VbmJlYWNoaW5nLm5jIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF0ciA9IHsnbmFtZSc6IG5hbWV9Cg==</text>
+        <text encoding="base64">ICAgICAgICBheCA9IHBsdC5zdWJwbG90KDEsIDEsIDEsIHByb2plY3Rpb249Y2Nycy5QbGF0ZUNhcnJlZSgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkKICAgIHBsdC5jbG9zZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgCg==</text>
+        <text encoding="base64">RidDdXJyZW50IHRpbWUgc3RlcDoge2NfdGltZV9zdGVwfScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJiZWFjaGVkIjogKCgidHJhaiIsICJvYnMiKSwgeiksCg==</text>
+        <text encoding="base64">ICAgICAgICBpZDAgPSBiZWFjaGVkID09IDAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiZWFjaGVkID0gbWVyZ2VkX2RhdGFbJ2JlYWNoZWQnXS5jb3B5KCkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBheC5zY2F0dGVyKGxvbnNbaWQwXSwgbGF0c1tpZDBdKQogICAgICAgIGF4LmNvYXN0bGluZXMoKQogICAgICAgIGF4LnNldF90aXRsZShGJ0N1cnJlbnQgdGltZSBzdGVwOiB7Y190aW1lX3N0ZXB9JywgZm9udHNpemU9MzApCiAgICAgICAgIyBwbHQuc2F2ZWZpZyhmaWxlX25hbWUucmVwbGFjZSgnanNvbicsJ3BuZycpLCBiYm94X2luY2hlcz0ndGlnaHQnKQogICAgICAgIHBsdC5zaG93KCkKICAgICAgICBwbHQuY2xvc2UoKQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChucC5zdW0oYmVhY2hlZCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChGIkJlYWNoZWQ6IG5wLnN1bShiZWFjaGVkX2NvdW50KSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChGIkJlYWNoZWQ6IG5wLnN1bShiZWFjaGVkX2NvdW50KSkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGV4ZWNfbmV4dCA9IFRydWUKICAgIGlmIE1QSToKICAgICAgICBpZiA6CiAgICAgICAgICAgIGV4ZWNfbmV4dCA9IEZhbHNlICMgVGhlIG5leHQgY29kZSB3ZSB3YW50IHRoYXQgb25seSBhIHNpbmdsZSBDUFUgZXhlY3V0ZXMgaXQ=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChucC5zdW0oYmVhY2hlZF9jb3VudCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
