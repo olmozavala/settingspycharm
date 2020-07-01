@@ -125,10 +125,10 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593190490077">
+      <file name="/Dummy.txt" timestamp="1593616412355">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1593190446958">
+      <file name="/Python Console" timestamp="1593616422594">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1593189695037">
@@ -140,13 +140,6 @@
         <mark key="]" line="5" column="18" />
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="18" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/models/models.py" timestamp="1593189840295">
-        <mark key="'" line="78" column="38" />
-        <mark key="[" line="16" column="62" />
-        <mark key="]" line="16" column="62" />
-        <mark key="." line="16" column="62" />
-        <mark key="^" line="81" column="31" />
       </file>
       <file name="/a.dummy" timestamp="1593190219261">
         <mark key="[" line="0" column="0" />
@@ -160,15 +153,14 @@
         <mark key="." line="80" column="44" />
         <mark key="^" line="80" column="45" />
       </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/config/MainConfig.py" timestamp="1593444264506">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="5" />
-        <mark key="." line="11" column="4" />
-        <mark key="^" line="11" column="5" />
+      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/config/MainConfig.py" timestamp="1593617787804">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="26" />
+        <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/1_MergeRuns.py" timestamp="1593190425345">
-        <mark key="'" line="27" column="0" />
+      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/1_MergeRuns.py" timestamp="1593616763406">
+        <mark key="'" line="57" column="22" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -205,19 +197,17 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/RUNALL.sh" timestamp="1593191550389">
-        <mark key="'" line="5" column="58" />
-        <mark key="[" line="5" column="118" />
-        <mark key="]" line="5" column="119" />
-        <mark key="^" line="5" column="119" />
-        <mark key="." line="5" column="118" />
+      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/RUNALL.sh" timestamp="1593616092474">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/2_OceanParcels_to_JSON_and_ZIP_V2.py" timestamp="1593186245476">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="98" column="79" />
-        <mark key="]" line="98" column="79" />
-        <mark key="." line="98" column="79" />
-        <mark key="^" line="98" column="90" />
+      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/2_OceanParcels_to_JSON_and_ZIP_V2.py" timestamp="1593617128023">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="17" column="15" />
       </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/kernels/wl_kernels.py" timestamp="1593190643145">
         <mark key="'" line="39" column="21" />
@@ -233,8 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="4" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/models/models.py" />
       <jump line="23" column="21" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/models/models.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/models/models.py" />
       <jump line="63" column="39" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/models/models.py" />
@@ -333,6 +321,8 @@
       <jump line="38" column="9" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/kernels/wl_kernels.py" />
       <jump line="39" column="21" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/kernels/wl_kernels.py" />
       <jump line="59" column="8" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
+      <jump line="57" column="22" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/1_MergeRuns.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/2_OceanParcels_to_JSON_and_ZIP_V2.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,46 +331,46 @@
         <text>self.get_proper_size(1, len(var_names)))</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>No</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCByZQppbXBvcnQgcGFuZGFzIGFzIHBkCmZyb20gY29uZmlnLnBhcmFtcyBpbXBvcnQgRGF0YUNvbHMKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQoKZGVmIHJlYWRfYWxsX2ZpbGVzKGlucHV0X2ZvbGRlcik6CiAgICBhbGxfZmlsZXMgPSBbb3MucGF0aC5qb2luKGRwLCBmKSBmb3IgZHAsIGRuLCBmbiBpbiBvcy53YWxrKG9zLnBhdGguZXhwYW5kdXNlcihpbnB1dF9mb2xkZXIpKSBmb3IgZiBpbiBmbl0KICAgIHJldHVybiBhbGxfZmlsZXMKCmRlZiBtYXRjaF9maWxlc19kYXRlcyhmaWxlcywgZGIpOgogICAgdHNfaWQgPSBkYi5pbmRleC52YWx1ZXMKCiAgICBkYltEYXRhQ29scy5jb3Jkc19maWxlLnZhbHVlXSA9ICcnCgogICAgY29vcmRzX2ZpbGVfcGF0dGVybiA9IEYnd3Jmb3V0X2MxNWQuKicKICAgIGNvb3Jkc19yZSA9IHJlLmNvbXBpbGUoY29vcmRzX2ZpbGVfcGF0dGVybikKICAgIGNvb3Jkc19maWxlID0gW3ggZm9yIHggaW4gZmlsZXMgaWYgbGVuKGNvb3Jkc19yZS5maW5kYWxsKHgpKSA+IDBdWzBdCiAgICBmb3IgaSBpbiB0c19pZDoKICAgICAgICBjX2RhdGVfb3JpZyA9IGRiLmxvY1tpXVtEYXRhQ29scy50aW1lLnZhbHVlXQogICAgICAgIGNfZGF0ZV9vcmlnID0gcGQudG9fZGF0ZXRpbWUoY19kYXRlX29yaWcpCiAgICAgICAgIyBjX2RhdGVfZml4ZWQgPSBjX2RhdGVfb3JpZyArIHRpbWVkZWx0YShob3Vycz0tNikKICAgICAgICBjX2RhdGVfZml4ZWQgPSBjX2RhdGVfb3JpZyArIHRpbWVkZWx0YShob3Vycz0wKQogICAgICAgIGNfeWVhciA9IGNfZGF0ZV9maXhlZC55ZWFyCiAgICAgICAgY19tb250aCA9IGNfZGF0ZV9maXhlZC5tb250aAogICAgICAgIGNfZGF5ID0gY19kYXRlX2ZpeGVkLmRheQoKICAgICAgICBmaWxlX3BhdHRlcm4gPSBGJ3dyZm91dF9jMWguKntjX3llYXJ9LXtjX21vbnRoOjAyZH0te2NfZGF5OjAyZH0uKicKICAgICAgICBmaWxlX3JlID0gcmUuY29tcGlsZShmaWxlX3BhdHRlcm4pCiAgICAgICAgZm9yIGNfZmlsZSBpbiBmaWxlczoKICAgICAgICAgICAgY19maWxlX25hbWUgPSBvcy5wYXRoLmJhc2VuYW1lKGNfZmlsZSkKICAgICAgICAgICAgbSA9IGZpbGVfcmUuZmluZGFsbChjX2ZpbGVfbmFtZSkKICAgICAgICAgICAgaWYgbGVuKG0pID4gMDoKICAgICAgICAgICAgICAgIGRiLmF0W2ksIERhdGFDb2xzLm5ldGNkZl9maWxlLnZhbHVlXSA9IGNfZmlsZQogICAgICAgICAgICAgICAgZGIuYXRbaSwgRGF0YUNvbHMuY29yZHNfZmlsZS52YWx1ZV0gPSBjb29yZHNfZmlsZQogICAgICAgICAgICAgICAgYnJlYWsKCgogICAgbmV3ZGIgPSBkYltkYltEYXRhQ29scy5uZXRjZGZfZmlsZS52YWx1ZV0gIT0gJyddCiAgICByZXR1cm4gbmV3ZGIKCgpkZWYgcmVhZF90c19kYihmaWxlX25hbWUsIGJib3g9Tm9uZSk6CiAgICBkZiA9IHBkLnJlYWRfY3N2KGZpbGVfbmFtZSwgaGVhZGVyPTAsIHBhcnNlX2RhdGVzPVsndGltZSddKQogICAgcHJpbnQoZGYpCiAgICBkZltEYXRhQ29scy5jZW50ZXIudmFsdWVdID0gZGZbJ2xhdCddLmFzdHlwZSgnc3RyJykgKyAnLCcgKyBkZlsnbG9uJ10uYXN0eXBlKCdzdHInKQogICAgZGZbRGF0YUNvbHMubmV0Y2RmX2ZpbGUudmFsdWVdID0gJycKICAgIGlmIGJib3ggaXMgTm9uZToKICAgICAgICByZXR1cm4gZGYKICAgIGVsc2U6CiAgICAgICAgbWlubGF0ID0gYmJveFswXQogICAgICAgIG1pbmxvbj0gYmJveFsxXQogICAgICAgIG1heGxhdCA9IGJib3hbMl0KICAgICAgICBtYXhsb24gPSBiYm94WzNdCiAgICAgICAgaW5kZXggPSAoZGZbJ2xhdCddID49IG1pbmxhdCkgJiAoZGZbJ2xvbiddID49IG1pbmxvbikgJiAoZGZbJ2xhdCddIDw9IG1heGxhdCkgJiAoZGZbJ2xvbiddIDw9IG1heGxvbikKICAgICAgICByZXR1cm4gZGZbaW5kZXhdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>No</text>
       </register>
       <register name="/" type="4">
         <text>ubt</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">U2luZ2xlX1JlbGVhc2VfRml2ZVllYXJzXzIwMTBfMDFfTm9XaW5kc19XaXRoRGlmZiA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyB0b2RheV9zdHIgPSAiWWVzV2luZHNfTm9EaWZmdXNpb25fMjAxMF8wMSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGlvbl9kYXlzID0gMzAK</text>
+        <text encoding="base64">IyBuY19maWxlID0gRGF0YXNldCgiL2RhdGEvVU5fTGl0dGVyX2RhdGEvb3V0cHV0L0ZpdmVZZWFyQ29tcGFyaXNvbi9Ob1dpbmRzX1llc0RpZmZ1c2lvbl8yMDEwXzAxLm5jIiwgInIiLCBmb3JtYXQ9Ik5FVENERjQiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBtcGk0cHkgaW1wb3J0IE1QSQo=</text>
+        <text encoding="base64">bXBpcnVuIC1ucCA4IHB5dGhvbiAwX1dvcmxkTGl0dGVyLnB5IDIwMTQtMDYtMDk6MCAyMDE1LTAxLTAxOjAgRmFsc2UgVHJ1ZSBGYWxzZSBTaW5nbGVfUmVsZWFzZV9GaXZlWWVhcnNfMjAxMF8wMV9Ob1dpbmRzX1dpdGhEaWZmIC9kYXRhL1VOX0xpdHRlcl9kYXRhL291dHB1dC9TaW5nbGVfUmVsZWFzZV9GaXZlWWVhcnNfMjAxMF8wMV9Ob1dpbmRzX1dpdGhEaWZmXzIwMTQtMDUtMTBfMjAxNC0wNi0wOS5uYyAzMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4ZWN1dGlvbl9kYXlzID0gMzAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSBzeXMuYXJndls2XQo=</text>
+        <text encoding="base64">ZnJvbSBtcGk0cHkgaW1wb3J0IE1QSQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVuYmVhY2hpbmcgPSBzdHIyYm9vbChzeXMuYXJndls1XSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIG1lcmdlRmlsZXMoY29uZmlnLCBzdGFydF9kYXRlLCBlbmRfZGF0ZSwgZXhlY3V0aW9uX2RheXMpOgo=</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBzeXMuYXJndls2XQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGlvbl9kYXlzID0gMzAK</text>
+        <text encoding="base64">ICAgIHVuYmVhY2hpbmcgPSBzdHIyYm9vbChzeXMuYXJndls1XSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGlvbl9kYXlzID0gMzAK</text>
+        <text encoding="base64">ZGVmIG1lcmdlRmlsZXMoY29uZmlnLCBzdGFydF9kYXRlLCBlbmRfZGF0ZSwgZXhlY3V0aW9uX2RheXMpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXF1ZW50aWFsKHN0YXJ0X2RhdGUsIGVuZF9kYXRlLCBjb25maWcsIG5hbWUsIHdpbmRzPXdpbmRzLCB1bmJlYWNoaW5nPXVuYmVhY2hpbmcsIGRpZmZ1c2lvbj1kaWZmdXNpb24pCg==</text>
+        <text encoding="base64">ICAgIGV4ZWN1dGlvbl9kYXlzID0gMzAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
