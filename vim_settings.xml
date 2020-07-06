@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>config</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry>Running</entry>
         <entry>Running:</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDx0aGlzX21hbnlcPg==</entry>
         <entry encoding="base64">XDxpZDBcPg==</entry>
         <entry encoding="base64">XDxsYXQwXD4=</entry>
+        <entry encoding="base64">XDxwYXJhbGxlbF9wcm9jXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s//ones/g</entry>
@@ -128,7 +128,7 @@
       <file name="/Dummy.txt" timestamp="1593619976282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1593620050254">
+      <file name="/Python Console" timestamp="1594054861255">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1593189695037">
@@ -140,6 +140,12 @@
         <mark key="]" line="5" column="18" />
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="18" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/PreprocData.py" timestamp="1594054511356">
+        <mark key="'" line="90" column="6" />
+        <mark key="[" line="88" column="24" />
+        <mark key="]" line="88" column="25" />
+        <mark key="." line="88" column="25" />
       </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/models/models.py" timestamp="1593628535070">
         <mark key="'" line="0" column="8" />
@@ -159,12 +165,6 @@
         <mark key="." line="83" column="137" />
         <mark key="^" line="83" column="138" />
       </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/config/MainConfig.py" timestamp="1593620862695">
-        <mark key="[" line="6" column="70" />
-        <mark key="]" line="6" column="71" />
-        <mark key="." line="6" column="70" />
-        <mark key="^" line="6" column="71" />
-      </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/1_MergeRuns.py" timestamp="1593616763406">
         <mark key="'" line="57" column="22" />
         <mark key="[" line="0" column="0" />
@@ -183,19 +183,19 @@
         <mark key="^" line="108" column="41" />
         <mark key="." line="59" column="21" />
       </file>
+      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/AnalizeData.py" timestamp="1594055327291">
+        <mark key="'" line="30" column="21" />
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="28" column="3" />
+        <mark key="^" line="28" column="4" />
+      </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/utils/several_utils.py" timestamp="1593189895399">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="20" column="109" />
         <mark key="]" line="20" column="109" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="20" column="109" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/config/MainConfigExampleCOAPS.py" timestamp="1593186528964">
-        <mark key="'" line="30" column="42" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="24" column="81" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/RUNALL.sh" timestamp="1593620224619">
         <mark key="[" line="2" column="96" />
@@ -217,11 +217,6 @@
         <mark key="^" line="39" column="51" />
         <mark key="." line="39" column="50" />
       </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/config/params.py" timestamp="1593186521320">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/1_Show_Output.py" timestamp="1593619682974">
         <mark key="'" line="85" column="44" />
         <mark key="[" line="123" column="47" />
@@ -229,17 +224,9 @@
         <mark key="^" line="122" column="127" />
         <mark key="." line="123" column="48" />
       </file>
+      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/config/MainConfig.py" timestamp="1594055330798" />
     </filemarks>
     <jumps>
-      <jump line="28" column="4" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
-      <jump line="98" column="27" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
-      <jump line="21" column="8" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/MergeRuns.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/MergeRuns.py" />
-      <jump line="84" column="12" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
-      <jump line="8" column="26" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
-      <jump line="60" column="8" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
       <jump line="85" column="22" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
       <jump line="3" column="5" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
@@ -331,6 +318,15 @@
       <jump line="42" column="62" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
       <jump line="75" column="66" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/models/models.py" />
       <jump line="0" column="8" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/models/models.py" />
+      <jump line="17" column="45" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/PreprocData.py" />
+      <jump line="86" column="10" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/PreprocData.py" />
+      <jump line="90" column="6" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/PreprocData.py" />
+      <jump line="17" column="14" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/AnalizeData.py" />
+      <jump line="109" column="14" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/AnalizeData.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/AnalizeData.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/AnalizeData.py" />
+      <jump line="135" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/AnalizeData.py" />
+      <jump line="30" column="21" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/AnalizeData.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,7 +335,7 @@
         <text>self.get_proper_size(1, len(var_names)))</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Done!!!!!!!!!!!! YEAH BABE!!!!!!!!</text>
+        <text encoding="base64">CmRlZiBtYWluKCk6CiAgICAjIC0tLS0tLS0tLS0tIFBhcmFsbGVsIC0tLS0tLS0KICAgIGNvbmZpZ19wYXIgPSBnZXRfcGFyYWxsZWxfY29uZmlnKCkKICAgIE5VTV9QUk9DID0gY29uZmlnX3BhcltQYXJhbGxlbFBhcmFtcy5OVU1fUFJPQ10KICAgIHAgPSBQb29sKE5VTV9QUk9DKQogICAgcC5tYXAocGFyYWxsZWxfcHJvYywgcmFuZ2UoTlVNX1BST0MpKQoKICAgICMgLS0tLS0tLS0tLS0gU2VxdWVuY2lhbCAtLS0tLS0tCiAgICBOVU1fUFJPQyA9IDEKICAgICMgcGFyYWxsZWxfcHJvYygxKQogICAgIyB0ZXN0aW5nKCk=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCByZQppbXBvcnQgcGFuZGFzIGFzIHBkCmZyb20gY29uZmlnLnBhcmFtcyBpbXBvcnQgRGF0YUNvbHMKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQoKZGVmIHJlYWRfYWxsX2ZpbGVzKGlucHV0X2ZvbGRlcik6CiAgICBhbGxfZmlsZXMgPSBbb3MucGF0aC5qb2luKGRwLCBmKSBmb3IgZHAsIGRuLCBmbiBpbiBvcy53YWxrKG9zLnBhdGguZXhwYW5kdXNlcihpbnB1dF9mb2xkZXIpKSBmb3IgZiBpbiBmbl0KICAgIHJldHVybiBhbGxfZmlsZXMKCmRlZiBtYXRjaF9maWxlc19kYXRlcyhmaWxlcywgZGIpOgogICAgdHNfaWQgPSBkYi5pbmRleC52YWx1ZXMKCiAgICBkYltEYXRhQ29scy5jb3Jkc19maWxlLnZhbHVlXSA9ICcnCgogICAgY29vcmRzX2ZpbGVfcGF0dGVybiA9IEYnd3Jmb3V0X2MxNWQuKicKICAgIGNvb3Jkc19yZSA9IHJlLmNvbXBpbGUoY29vcmRzX2ZpbGVfcGF0dGVybikKICAgIGNvb3Jkc19maWxlID0gW3ggZm9yIHggaW4gZmlsZXMgaWYgbGVuKGNvb3Jkc19yZS5maW5kYWxsKHgpKSA+IDBdWzBdCiAgICBmb3IgaSBpbiB0c19pZDoKICAgICAgICBjX2RhdGVfb3JpZyA9IGRiLmxvY1tpXVtEYXRhQ29scy50aW1lLnZhbHVlXQogICAgICAgIGNfZGF0ZV9vcmlnID0gcGQudG9fZGF0ZXRpbWUoY19kYXRlX29yaWcpCiAgICAgICAgIyBjX2RhdGVfZml4ZWQgPSBjX2RhdGVfb3JpZyArIHRpbWVkZWx0YShob3Vycz0tNikKICAgICAgICBjX2RhdGVfZml4ZWQgPSBjX2RhdGVfb3JpZyArIHRpbWVkZWx0YShob3Vycz0wKQogICAgICAgIGNfeWVhciA9IGNfZGF0ZV9maXhlZC55ZWFyCiAgICAgICAgY19tb250aCA9IGNfZGF0ZV9maXhlZC5tb250aAogICAgICAgIGNfZGF5ID0gY19kYXRlX2ZpeGVkLmRheQoKICAgICAgICBmaWxlX3BhdHRlcm4gPSBGJ3dyZm91dF9jMWguKntjX3llYXJ9LXtjX21vbnRoOjAyZH0te2NfZGF5OjAyZH0uKicKICAgICAgICBmaWxlX3JlID0gcmUuY29tcGlsZShmaWxlX3BhdHRlcm4pCiAgICAgICAgZm9yIGNfZmlsZSBpbiBmaWxlczoKICAgICAgICAgICAgY19maWxlX25hbWUgPSBvcy5wYXRoLmJhc2VuYW1lKGNfZmlsZSkKICAgICAgICAgICAgbSA9IGZpbGVfcmUuZmluZGFsbChjX2ZpbGVfbmFtZSkKICAgICAgICAgICAgaWYgbGVuKG0pID4gMDoKICAgICAgICAgICAgICAgIGRiLmF0W2ksIERhdGFDb2xzLm5ldGNkZl9maWxlLnZhbHVlXSA9IGNfZmlsZQogICAgICAgICAgICAgICAgZGIuYXRbaSwgRGF0YUNvbHMuY29yZHNfZmlsZS52YWx1ZV0gPSBjb29yZHNfZmlsZQogICAgICAgICAgICAgICAgYnJlYWsKCgogICAgbmV3ZGIgPSBkYltkYltEYXRhQ29scy5uZXRjZGZfZmlsZS52YWx1ZV0gIT0gJyddCiAgICByZXR1cm4gbmV3ZGIKCgpkZWYgcmVhZF90c19kYihmaWxlX25hbWUsIGJib3g9Tm9uZSk6CiAgICBkZiA9IHBkLnJlYWRfY3N2KGZpbGVfbmFtZSwgaGVhZGVyPTAsIHBhcnNlX2RhdGVzPVsndGltZSddKQogICAgcHJpbnQoZGYpCiAgICBkZltEYXRhQ29scy5jZW50ZXIudmFsdWVdID0gZGZbJ2xhdCddLmFzdHlwZSgnc3RyJykgKyAnLCcgKyBkZlsnbG9uJ10uYXN0eXBlKCdzdHInKQogICAgZGZbRGF0YUNvbHMubmV0Y2RmX2ZpbGUudmFsdWVdID0gJycKICAgIGlmIGJib3ggaXMgTm9uZToKICAgICAgICByZXR1cm4gZGYKICAgIGVsc2U6CiAgICAgICAgbWlubGF0ID0gYmJveFswXQogICAgICAgIG1pbmxvbj0gYmJveFsxXQogICAgICAgIG1heGxhdCA9IGJib3hbMl0KICAgICAgICBtYXhsb24gPSBiYm94WzNdCiAgICAgICAgaW5kZXggPSAoZGZbJ2xhdCddID49IG1pbmxhdCkgJiAoZGZbJ2xvbiddID49IG1pbmxvbikgJiAoZGZbJ2xhdCddIDw9IG1heGxhdCkgJiAoZGZbJ2xvbiddIDw9IG1heGxvbikKICAgICAgICByZXR1cm4gZGZbaW5kZXhdCg==</text>
@@ -348,37 +344,37 @@
         <text>Done!!!!!!!!!!!! YEAH BABE!!!!!!!!</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYXQwXD4=</text>
+        <text encoding="base64">XDxwYXJhbGxlbF9wcm9jXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KCJEb25lISEhISEhISEhISEhIFlFQUggQkFCRSEhISEhISEhIikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmRlZiBtYWluKCk6CiAgICAjIC0tLS0tLS0tLS0tIFBhcmFsbGVsIC0tLS0tLS0KICAgIGNvbmZpZ19wYXIgPSBnZXRfcGFyYWxsZWxfY29uZmlnKCkKICAgIE5VTV9QUk9DID0gY29uZmlnX3BhcltQYXJhbGxlbFBhcmFtcy5OVU1fUFJPQ10KICAgIHAgPSBQb29sKE5VTV9QUk9DKQogICAgcC5tYXAocGFyYWxsZWxfcHJvYywgcmFuZ2UoTlVNX1BST0MpKQoKICAgICMgLS0tLS0tLS0tLS0gU2VxdWVuY2lhbCAtLS0tLS0tCiAgICBOVU1fUFJPQyA9IDEKICAgICMgcGFyYWxsZWxfcHJvYygxKQogICAgIyB0ZXN0aW5nKCk=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBXb3JsZExpdHRlci5vdXRwdXRfZm9sZGVyOiBqb2luKGRhdGFfZm9sZGVyLCJvdXRwdXQvRml2ZVllYXJDb21wYXJpc29uIiksCg==</text>
+        <text encoding="base64">Y29uZmlnX3BhciA9IGdldF9wYXJhbGxlbF9jb25maWcoKQpOVU1fUFJPQyA9IGNvbmZpZ19wYXJbUGFyYWxsZWxQYXJhbXMuTlVNX1BST0NdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+        <text encoding="base64">IyBOb3Qgc3VyZSBob3cgdG8gbW92ZSB0aGlzIGluc2lkZSB0aGUgZnVuY3Rpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgZmlsZV9uYW1lID0gIi9kYXRhL1VOX0xpdHRlcl9kYXRhL291dHB1dC9CSy9TaW5nbGVfUmVsZWFzZV9GaXZlWWVhcnNfMjAxMF8wMV9Ob1dpbmRzX1dpdGhEaWZmXzIwMTAtMTItMjdfMjAxMS0wMS0yNl9fMDEubmMiCg==</text>
+        <text encoding="base64">ICAgICMgL2RhdGEvQ09BUFNfbmV4c2FuL3Blb3BsZS9hYm96ZWMvVFNJUy9JQVN4MC4wMy9vYnMvcWNvYnNfbWR0X2dvZnMvV0lUSF9QSUVTCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZm9yIGNfdGltZV9zdGVwIGluIG5wLmFyYW5nZSgxMSx0b3RfdGltZXMsMSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBXb3JsZExpdHRlci5vdXRwdXRfZm9sZGVyOiBqb2luKGRhdGFfZm9sZGVyLCJvdXRwdXQvRml2ZVllYXJDb21wYXJpc29uIiksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwbHQuc2hvdygpCiAgICAgICAgICAgICMgcGx0LmNsb3NlKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiZWFjaGVkID0gZHMudmFyaWFibGVzWydiZWFjaGVkJ11bOixjX3RpbWVfc3RlcF0KICAgICAgICBiZWFjaGVkX2NvdW50ID0gZHMudmFyaWFibGVzWydiZWFjaGVkX2NvdW50J11bOixjX3RpbWVfc3RlcF0K</text>
+        <text encoding="base64">ICAgICMgZmlsZV9uYW1lID0gIi9kYXRhL1VOX0xpdHRlcl9kYXRhL291dHB1dC9CSy9TaW5nbGVfUmVsZWFzZV9GaXZlWWVhcnNfMjAxMF8wMV9Ob1dpbmRzX1dpdGhEaWZmXzIwMTAtMTItMjdfMjAxMS0wMS0yNl9fMDEubmMiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZSA9IEYnQ3VycmVudCB0aW1lIHN0ZXA6IHtjX3RpbWVfc3RlcH0nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -387,9 +383,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsYXQwXD4=</last-search>
+      <last-search encoding="base64">XDxwYXJhbGxlbF9wcm9jXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYXQwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJhbGxlbF9wcm9jXD4=</last-pattern>
       <last-replace>runModelSequencial</last-replace>
       <last-substitute encoding="base64">XDxtYWluXD4=</last-substitute>
       <last-dir>1</last-dir>
