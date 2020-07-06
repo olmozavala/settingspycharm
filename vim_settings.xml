@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ubt</entry>
-        <entry>beached</entry>
         <entry encoding="base64">XDx0aGlzX21hbnlcPg==</entry>
         <entry encoding="base64">XDxpZDBcPg==</entry>
         <entry encoding="base64">XDxsYXQwXD4=</entry>
@@ -23,14 +21,14 @@
         <entry>flip</entry>
         <entry encoding="base64">XDxkYXlfdG9fcHJlZGljdFw+</entry>
         <entry encoding="base64">XDxpZF9maWxlXD4=</entry>
-        <entry>***</entry>
         <entry>pandas</entry>
+        <entry>***</entry>
+        <entry>40</entry>
+        <entry>mat</entry>
       </history-search>
       <history-cmd>
-        <entry>qall</entry>
         <entry>%s/\.nc//g</entry>
         <entry>s/min/max</entry>
-        <entry>sp</entry>
         <entry>s/z/beached/g</entry>
         <entry>s/z/beached_count/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -46,6 +44,8 @@
         <entry>%s//parallel_img_generation/g</entry>
         <entry>q</entry>
         <entry>%s/***/===/g</entry>
+        <entry>s</entry>
+        <entry>sp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -125,10 +125,7 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594059435952">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1594059927416">
+      <file name="/Dummy.txt" timestamp="1594062187611">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/PreprocData.py" timestamp="1594054511356">
@@ -136,6 +133,9 @@
         <mark key="[" line="88" column="24" />
         <mark key="]" line="88" column="25" />
         <mark key="." line="88" column="25" />
+      </file>
+      <file name="/fragment.py" timestamp="1594062185521">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/models/models.py" timestamp="1594055454262">
         <mark key="'" line="94" column="17" />
@@ -183,12 +183,12 @@
       <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/MakeHistogram.py" timestamp="1594055472228">
         <mark key="'" line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/TestModel.py" timestamp="1594061451151">
-        <mark key="'" line="138" column="0" />
-        <mark key="[" line="51" column="16" />
-        <mark key="]" line="51" column="16" />
-        <mark key="^" line="51" column="13" />
-        <mark key="." line="51" column="16" />
+      <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/TestModel.py" timestamp="1594062221493">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="^" line="155" column="31" />
+        <mark key="." line="158" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/RUNALL.sh" timestamp="1593620224619">
         <mark key="[" line="2" column="96" />
@@ -222,12 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="4" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/MergeRuns.py" />
-      <jump line="113" column="75" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/MergeRuns.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/MergeRuns.py" />
-      <jump line="80" column="37" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
-      <jump line="25" column="4" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
-      <jump line="27" column="42" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
       <jump line="31" column="8" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/0_WorldLitter.py" />
       <jump line="12" column="45" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/models/models.py" />
       <jump line="16" column="58" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/UN_Ocean_Litter/WorldLitter/models/models.py" />
@@ -322,6 +316,12 @@
       <jump line="52" column="8" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/TestModel.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/TestModel.py" />
       <jump line="137" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/TestModel.py" />
+      <jump line="131" column="27" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/TestModel.py" />
+      <jump line="82" column="16" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/TestModel.py" />
+      <jump line="153" column="18" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/TestModel.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/TestModel.py" />
+      <jump line="152" column="45" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/TestModel.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Dropbox/MyProjects/EOAS/COAPS/MURI_AI_Ocean/Data_Assimilation/HYCOM-TSIS/TestModel.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,47 +329,47 @@
       <register name="a" type="4">
         <text>self.get_proper_size(1, len(var_names)))</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>-1*np.ones((len(da_files), 3))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB4ID0gMQo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCByZQppbXBvcnQgcGFuZGFzIGFzIHBkCmZyb20gY29uZmlnLnBhcmFtcyBpbXBvcnQgRGF0YUNvbHMKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQoKZGVmIHJlYWRfYWxsX2ZpbGVzKGlucHV0X2ZvbGRlcik6CiAgICBhbGxfZmlsZXMgPSBbb3MucGF0aC5qb2luKGRwLCBmKSBmb3IgZHAsIGRuLCBmbiBpbiBvcy53YWxrKG9zLnBhdGguZXhwYW5kdXNlcihpbnB1dF9mb2xkZXIpKSBmb3IgZiBpbiBmbl0KICAgIHJldHVybiBhbGxfZmlsZXMKCmRlZiBtYXRjaF9maWxlc19kYXRlcyhmaWxlcywgZGIpOgogICAgdHNfaWQgPSBkYi5pbmRleC52YWx1ZXMKCiAgICBkYltEYXRhQ29scy5jb3Jkc19maWxlLnZhbHVlXSA9ICcnCgogICAgY29vcmRzX2ZpbGVfcGF0dGVybiA9IEYnd3Jmb3V0X2MxNWQuKicKICAgIGNvb3Jkc19yZSA9IHJlLmNvbXBpbGUoY29vcmRzX2ZpbGVfcGF0dGVybikKICAgIGNvb3Jkc19maWxlID0gW3ggZm9yIHggaW4gZmlsZXMgaWYgbGVuKGNvb3Jkc19yZS5maW5kYWxsKHgpKSA+IDBdWzBdCiAgICBmb3IgaSBpbiB0c19pZDoKICAgICAgICBjX2RhdGVfb3JpZyA9IGRiLmxvY1tpXVtEYXRhQ29scy50aW1lLnZhbHVlXQogICAgICAgIGNfZGF0ZV9vcmlnID0gcGQudG9fZGF0ZXRpbWUoY19kYXRlX29yaWcpCiAgICAgICAgIyBjX2RhdGVfZml4ZWQgPSBjX2RhdGVfb3JpZyArIHRpbWVkZWx0YShob3Vycz0tNikKICAgICAgICBjX2RhdGVfZml4ZWQgPSBjX2RhdGVfb3JpZyArIHRpbWVkZWx0YShob3Vycz0wKQogICAgICAgIGNfeWVhciA9IGNfZGF0ZV9maXhlZC55ZWFyCiAgICAgICAgY19tb250aCA9IGNfZGF0ZV9maXhlZC5tb250aAogICAgICAgIGNfZGF5ID0gY19kYXRlX2ZpeGVkLmRheQoKICAgICAgICBmaWxlX3BhdHRlcm4gPSBGJ3dyZm91dF9jMWguKntjX3llYXJ9LXtjX21vbnRoOjAyZH0te2NfZGF5OjAyZH0uKicKICAgICAgICBmaWxlX3JlID0gcmUuY29tcGlsZShmaWxlX3BhdHRlcm4pCiAgICAgICAgZm9yIGNfZmlsZSBpbiBmaWxlczoKICAgICAgICAgICAgY19maWxlX25hbWUgPSBvcy5wYXRoLmJhc2VuYW1lKGNfZmlsZSkKICAgICAgICAgICAgbSA9IGZpbGVfcmUuZmluZGFsbChjX2ZpbGVfbmFtZSkKICAgICAgICAgICAgaWYgbGVuKG0pID4gMDoKICAgICAgICAgICAgICAgIGRiLmF0W2ksIERhdGFDb2xzLm5ldGNkZl9maWxlLnZhbHVlXSA9IGNfZmlsZQogICAgICAgICAgICAgICAgZGIuYXRbaSwgRGF0YUNvbHMuY29yZHNfZmlsZS52YWx1ZV0gPSBjb29yZHNfZmlsZQogICAgICAgICAgICAgICAgYnJlYWsKCgogICAgbmV3ZGIgPSBkYltkYltEYXRhQ29scy5uZXRjZGZfZmlsZS52YWx1ZV0gIT0gJyddCiAgICByZXR1cm4gbmV3ZGIKCgpkZWYgcmVhZF90c19kYihmaWxlX25hbWUsIGJib3g9Tm9uZSk6CiAgICBkZiA9IHBkLnJlYWRfY3N2KGZpbGVfbmFtZSwgaGVhZGVyPTAsIHBhcnNlX2RhdGVzPVsndGltZSddKQogICAgcHJpbnQoZGYpCiAgICBkZltEYXRhQ29scy5jZW50ZXIudmFsdWVdID0gZGZbJ2xhdCddLmFzdHlwZSgnc3RyJykgKyAnLCcgKyBkZlsnbG9uJ10uYXN0eXBlKCdzdHInKQogICAgZGZbRGF0YUNvbHMubmV0Y2RmX2ZpbGUudmFsdWVdID0gJycKICAgIGlmIGJib3ggaXMgTm9uZToKICAgICAgICByZXR1cm4gZGYKICAgIGVsc2U6CiAgICAgICAgbWlubGF0ID0gYmJveFswXQogICAgICAgIG1pbmxvbj0gYmJveFsxXQogICAgICAgIG1heGxhdCA9IGJib3hbMl0KICAgICAgICBtYXhsb24gPSBiYm94WzNdCiAgICAgICAgaW5kZXggPSAoZGZbJ2xhdCddID49IG1pbmxhdCkgJiAoZGZbJ2xvbiddID49IG1pbmxvbikgJiAoZGZbJ2xhdCddIDw9IG1heGxhdCkgJiAoZGZbJ2xvbiddIDw9IG1heGxvbikKICAgICAgICByZXR1cm4gZGZbaW5kZXhdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>-1*np.ones((len(da_files), 3))</text>
+        <text>errors_df.</text>
       </register>
       <register name="/" type="4">
-        <text>pandas</text>
+        <text>mat</text>
       </register>
       <register name="0" type="4">
         <text>persistence_preproc</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB4ID0gMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgPT09PT09PT09PT09PT09PT09PT09PT0gT25seSBGcmVlIEhZQ09NLCBUU0lTLCBPYnNlcnZhdGlvbnMgPT09PT09PT09PT09PT09PT09CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbWdfdml6LnBsb3RfM2RfZGF0YV9ucChbZm9yZWNhc3RfbnBfY19maWVsZCwgZGFfbnBfY19maWVsZCwgZGlmZl9kYV92c19mb10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXJfbmFtZXM9WydGcmVlJywgJ1RTSVMnLCBGJ1RTSVMtRnJlZSddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU9dGl0bGUsIGZpbGVfbmFtZV9wcmVmaXg9RicwX3tjX2ZpZWxkX25hbWV9X3tjX3llYXJ9X3tjX21vbnRoOjAyZH1fe2NfZGF5X29mX21vbnRoOjAyZH0nLCB6X2xhdmVsc19uYW1lcz1sYXllcnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbGlwX2RhdGE9VHJ1ZSwgcGxvdF9tb2RlPXBsb3RfbW9kZXNbaWR4X2ZpZWxkXSk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcnNfZGYucGxvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRidPYnMtSHljb20gKG1zZTp7bXNlX29ic192c19oeWNvbTouM2Z9KScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgVGhlc2UgYXJlIHRoZSBkYXRhIGFzc2ltaWxhdGVkIGZpbGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uZmlnX3BhciA9IGdldF9wYXJhbGxlbF9jb25maWcoKQpOVU1fUFJPQyA9IGNvbmZpZ19wYXJbUGFyYWxsZWxQYXJhbXMuTlVNX1BST0NdCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgPT09PT09PT09PT09PT09PT09PT09PT0gT25seSBGcmVlIEhZQ09NLCBUU0lTLCBPYnNlcnZhdGlvbnMgPT09PT09PT09PT09PT09PT09CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbWdfdml6LnBsb3RfM2RfZGF0YV9ucChbZm9yZWNhc3RfbnBfY19maWVsZCwgZGFfbnBfY19maWVsZCwgZGlmZl9kYV92c19mb10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXJfbmFtZXM9WydGcmVlJywgJ1RTSVMnLCBGJ1RTSVMtRnJlZSddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU9dGl0bGUsIGZpbGVfbmFtZV9wcmVmaXg9RicwX3tjX2ZpZWxkX25hbWV9X3tjX3llYXJ9X3tjX21vbnRoOjAyZH1fe2NfZGF5X29mX21vbnRoOjAyZH0nLCB6X2xhdmVsc19uYW1lcz1sYXllcnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbGlwX2RhdGE9VHJ1ZSwgcGxvdF9tb2RlPXBsb3RfbW9kZXNbaWR4X2ZpZWxkXSk=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -378,9 +378,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pandas</last-search>
+      <last-search>mat</last-search>
       <last-offset />
-      <last-pattern>pandas</last-pattern>
+      <last-pattern>mat</last-pattern>
       <last-replace>parallel_img_generation</last-replace>
       <last-substitute>***</last-substitute>
       <last-dir>1</last-dir>
