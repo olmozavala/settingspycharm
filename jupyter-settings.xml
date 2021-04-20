@@ -1,0 +1,6 @@
+<application>
+  <component name="JupyterSettings">
+    <option name="previewFontSize" value="18" />
+    <option name="useEditorFontSize" value="false" />
+  </component>
+</application>
