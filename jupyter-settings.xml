@@ -3,6 +3,7 @@
     <option name="autoscrollFromSource" value="false" />
     <option name="autoscrollToSource" value="false" />
     <option name="previewFontSize" value="16" />
+    <option name="showLineSeparators" value="false" />
     <option name="showSourcesInPreview" value="false" />
     <option name="sourceCodeLineSpan" value="0" />
     <option name="useEditorFontSize" value="false" />
