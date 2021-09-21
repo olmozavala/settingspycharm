@@ -1,5 +1,9 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings StylesheetUri="https://github.com/JetBrains/intellij-community/blob/5b626181f88c7fe8fd37fb1c6367173248441003/plugins/markdown/resource/org/intellij/plugins/markdown/settings/default.css" TextEnabled="true" StylesheetText="body{&#10;    font-size: 150% !important;&#10;    }" />
+    <MarkdownCssSettings StylesheetUri="https://github.com/JetBrains/intellij-community/blob/5b626181f88c7fe8fd37fb1c6367173248441003/plugins/markdown/resource/org/intellij/plugins/markdown/settings/default.css" TextEnabled="true" StylesheetText="body{&#10;    font-size: 110% !important;&#10;    }" />
+    <enabledExtensions>
+      <entry key="MermaidLanguageExtension" value="false" />
+      <entry key="PlantUMLLanguageExtension" value="false" />
+    </enabledExtensions>
   </component>
 </application>
