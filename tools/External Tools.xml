@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="mpi" description="mpi" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="mpirun" />
+      <option name="PARAMETERS" value="-np 8 $FileName$ 2010-01-01:0 2010:03:11:0 True False False TEST 10" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
