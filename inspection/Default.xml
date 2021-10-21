@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="10">
+        <list size="44">
           <item index="0" class="java.lang.String" itemvalue="pydicom" />
           <item index="1" class="java.lang.String" itemvalue="torch" />
           <item index="2" class="java.lang.String" itemvalue="torchvision" />
@@ -14,6 +14,40 @@
           <item index="7" class="java.lang.String" itemvalue="keras" />
           <item index="8" class="java.lang.String" itemvalue="imgaug" />
           <item index="9" class="java.lang.String" itemvalue="IPython" />
+          <item index="10" class="java.lang.String" itemvalue="scikit-image" />
+          <item index="11" class="java.lang.String" itemvalue="absl-py" />
+          <item index="12" class="java.lang.String" itemvalue="protobuf" />
+          <item index="13" class="java.lang.String" itemvalue="decorator" />
+          <item index="14" class="java.lang.String" itemvalue="html5lib" />
+          <item index="15" class="java.lang.String" itemvalue="networkx" />
+          <item index="16" class="java.lang.String" itemvalue="data" />
+          <item index="17" class="java.lang.String" itemvalue="PyYAML" />
+          <item index="18" class="java.lang.String" itemvalue="python-dateutil" />
+          <item index="19" class="java.lang.String" itemvalue="funcsigs" />
+          <item index="20" class="java.lang.String" itemvalue="gast" />
+          <item index="21" class="java.lang.String" itemvalue="numpy" />
+          <item index="22" class="java.lang.String" itemvalue="Keras-Preprocessing" />
+          <item index="23" class="java.lang.String" itemvalue="PyWavelets" />
+          <item index="24" class="java.lang.String" itemvalue="bleach" />
+          <item index="25" class="java.lang.String" itemvalue="pyparsing" />
+          <item index="26" class="java.lang.String" itemvalue="Markdown" />
+          <item index="27" class="java.lang.String" itemvalue="tensorflow-gpu" />
+          <item index="28" class="java.lang.String" itemvalue="scipy" />
+          <item index="29" class="java.lang.String" itemvalue="six" />
+          <item index="30" class="java.lang.String" itemvalue="Werkzeug" />
+          <item index="31" class="java.lang.String" itemvalue="h5py" />
+          <item index="32" class="java.lang.String" itemvalue="astor" />
+          <item index="33" class="java.lang.String" itemvalue="kiwisolver" />
+          <item index="34" class="java.lang.String" itemvalue="Keras-Applications" />
+          <item index="35" class="java.lang.String" itemvalue="tensorboard" />
+          <item index="36" class="java.lang.String" itemvalue="imageio" />
+          <item index="37" class="java.lang.String" itemvalue="matplotlib" />
+          <item index="38" class="java.lang.String" itemvalue="tensorboardX" />
+          <item index="39" class="java.lang.String" itemvalue="mock" />
+          <item index="40" class="java.lang.String" itemvalue="alt-model-checkpoint" />
+          <item index="41" class="java.lang.String" itemvalue="grpcio" />
+          <item index="42" class="java.lang.String" itemvalue="Keras" />
+          <item index="43" class="java.lang.String" itemvalue="Pillow" />
         </list>
       </value>
     </option>
