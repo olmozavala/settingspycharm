@@ -4,6 +4,9 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="132.248.8.98" id="d2364f66-8a9c-49ab-b14b-12c9c441afa0" port="21622" customName="OBI" nameFormat="CUSTOM" username="olmozavala">
         <option name="customName" value="OBI" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="132.248.8.98" id="1bcf7ae5-87f0-40f1-9b50-0b8606e86093" port="21622" customName="OBI" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="OBI" />
+      </sshConfig>
     </configs>
   </component>
 </application>
