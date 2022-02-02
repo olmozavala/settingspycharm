@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="44">
+        <list size="46">
           <item index="0" class="java.lang.String" itemvalue="pydicom" />
           <item index="1" class="java.lang.String" itemvalue="torch" />
           <item index="2" class="java.lang.String" itemvalue="torchvision" />
@@ -48,6 +48,8 @@
           <item index="41" class="java.lang.String" itemvalue="grpcio" />
           <item index="42" class="java.lang.String" itemvalue="Keras" />
           <item index="43" class="java.lang.String" itemvalue="Pillow" />
+          <item index="44" class="java.lang.String" itemvalue="termcolor" />
+          <item index="45" class="java.lang.String" itemvalue="cycler" />
         </list>
       </value>
     </option>
