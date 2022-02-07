@@ -6,8 +6,6 @@
       <mapping ext="hdf5" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="txt" type="requirements.txt" />
     </extensionMap>
   </component>
 </application>
