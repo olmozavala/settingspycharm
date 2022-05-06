@@ -60,6 +60,9 @@
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
+  <action id="Markdown.Table.InsertRow.InsertBelow">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="OpenElementInNewWindow" />
   <action id="PyExecuteCellAction" />
   <action id="PythonCellMode.RunCell">
