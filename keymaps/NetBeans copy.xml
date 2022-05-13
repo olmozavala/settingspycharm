@@ -33,6 +33,12 @@
   <action id="ExpandAllToLevel3">
     <keyboard-shortcut first-keystroke="shift ctrl numpad2" />
   </action>
+  <action id="ExpandAllToLevel4">
+    <keyboard-shortcut first-keystroke="shift ctrl numpad3" />
+  </action>
+  <action id="ExpandAllToLevel5">
+    <keyboard-shortcut first-keystroke="shift ctrl numpad4" />
+  </action>
   <action id="ExpandExpandableComponent">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
